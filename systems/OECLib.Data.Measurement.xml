@@ -1,0 +1,28 @@
+<system>
+  <name>EPIC 211913977</name>
+  <star>
+    <name>EPIC 211913977</name>
+    <mass errorplus="0.06" errorminus="0.06">0.8</mass>
+    <radius errorplus="0.03" errorminus="0.03">0.73</radius>
+    <magV></magV>
+    <magH>11.16</magH>
+    <magJ></magJ>
+    <temperature errorplus="45.0" errorminus="45.0">4819.0</temperature>
+    <metallicity errorplus="" errorminus=""></metallicity>
+    <spectraltype></spectraltype>
+    <age errorplus="" errorminus="">0.8</age>
+    <planet>
+      <name>EPIC 211913977 b</name>
+      <source>http://exoplanet.eu/catalog/EPIC_211913977_b/</source>
+      <mass errorplus="" errorminus=""></mass>
+      <period errorplus="0.000828" errorminus="0.000804">14.677286</period>
+      <semimajoraxis errorplus="" errorminus=""></semimajoraxis>
+      <eccentricity errorplus="0.18" errorminus="0.08">0.1</eccentricity>
+      <periastron errorplus="" errorminus=""></periastron>
+      <periastrontime errorplus="" errorminus=""></periastrontime>
+      <detectionMethod>IDK</detectionMethod>
+      <lastUpdate>16/09/07</lastUpdate>
+      <discovery>2016</discovery>
+    </planet>
+  </star>
+</system>
