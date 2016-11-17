@@ -1,0 +1,28 @@
+<system>
+  <name>Kepler-1647 (AB)</name>
+  <star>
+    <name>Kepler-1647 (AB)</name>
+    <mass errorplus="0.01" errorminus="0.01">2.1885</mass>
+    <radius errorplus="0.006" errorminus="0.006">1.79</radius>
+    <magV>13.78</magV>
+    <magH></magH>
+    <magJ></magJ>
+    <temperature errorplus="100.0" errorminus="100.0">6210.0</temperature>
+    <metallicity errorplus="" errorminus=""></metallicity>
+    <spectraltype></spectraltype>
+    <age errorplus="" errorminus=""></age>
+    <planet>
+      <name>Kepler-1647 (AB) b</name>
+      <source>http://exoplanet.eu/catalog/Kepler-1647_(AB)_b/</source>
+      <mass errorplus="0.65" errorminus="0.65">1.52</mass>
+      <period errorplus="0.0227" errorminus="0.0227">1107.5923</period>
+      <semimajoraxis errorplus="0.007" errorminus="0.007">2.7205</semimajoraxis>
+      <eccentricity errorplus="0.0689" errorminus="0.0689">0.0581</eccentricity>
+      <periastron errorplus="146.5723" errorminus="146.5723">155.0464</periastron>
+      <periastrontime errorplus="" errorminus=""></periastrontime>
+      <detectionMethod>IDK</detectionMethod>
+      <lastUpdate>16/10/14</lastUpdate>
+      <discovery>2015</discovery>
+    </planet>
+  </star>
+</system>
