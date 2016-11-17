@@ -1,0 +1,25 @@
+<star>
+  <name>EPIC 219388192</name>
+  <mass errorplus="0.05" errorminus="0.05">0.99</mass>
+  <radius errorplus="0.04" errorminus="0.04">1.01</radius>
+  <magV>12.5</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="85.0" errorminus="85.0">5850.0</temperature>
+  <metallicity errorplus="0.08" errorminus="0.08">0.03</metallicity>
+  <spectraltype>G</spectraltype>
+  <age errorplus="1.9" errorminus="1.9">3.9</age>
+  <planet>
+    <name>EPIC 219388192 b</name>
+    <source>http://exoplanet.eu/catalog/EPIC_219388192_b/</source>
+    <mass errorplus="0.09" errorminus="0.09">36.5</mass>
+    <period errorplus="2.6e-05" errorminus="2.6e-05">5.292569</period>
+    <semimajoraxis errorplus="0.0029" errorminus="0.0029">0.0593</semimajoraxis>
+    <eccentricity errorplus="0.0019" errorminus="0.0019">0.1929</eccentricity>
+    <periastron errorplus="1.0" errorminus="1.0">345.9</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/10/28</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
