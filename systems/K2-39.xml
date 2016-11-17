@@ -1,0 +1,28 @@
+<system>
+  <name>K2-39</name>
+  <star>
+    <name>K2-39</name>
+    <mass errorplus="0.13" errorminus="0.13">1.53</mass>
+    <radius errorplus="0.48" errorminus="0.42">3.88</radius>
+    <magV>10.83</magV>
+    <magH></magH>
+    <magJ></magJ>
+    <temperature errorplus="20.0" errorminus="20.0">4881.0</temperature>
+    <metallicity errorplus="0.04" errorminus="0.04">0.32</metallicity>
+    <spectraltype></spectraltype>
+    <age errorplus="0.92" errorminus="0.7">3.09</age>
+    <planet>
+      <name>K2-39</name>
+      <source>http://exoplanet.eu/catalog/K2-39/</source>
+      <mass errorplus="0.031" errorminus="0.03">0.158</mass>
+      <period errorplus="0.00046" errorminus="0.00046">4.60543</period>
+      <semimajoraxis errorplus="0.01" errorminus="0.012">0.062</semimajoraxis>
+      <eccentricity errorplus="" errorminus="">0.0</eccentricity>
+      <periastron errorplus="" errorminus=""></periastron>
+      <periastrontime errorplus="" errorminus=""></periastrontime>
+      <detectionMethod>IDK</detectionMethod>
+      <lastUpdate>16/10/02</lastUpdate>
+      <discovery>2016</discovery>
+    </planet>
+  </star>
+</system>
