@@ -1,0 +1,13 @@
+<planet>
+  <name>2M 2236+4751 b</name>
+  <source>http://exoplanet.eu/catalog/2M_2236+4751_b/</source>
+  <mass errorplus="1.5" errorminus="1.5">12.5</mass>
+  <period errorplus="" errorminus=""></period>
+  <semimajoraxis errorplus="20.0" errorminus="20.0">230.0</semimajoraxis>
+  <eccentricity errorplus="" errorminus=""></eccentricity>
+  <periastron errorplus="" errorminus=""></periastron>
+  <periastrontime errorplus="" errorminus=""></periastrontime>
+  <detectionMethod>IDK</detectionMethod>
+  <lastUpdate>16/11/03</lastUpdate>
+  <discovery>2016</discovery>
+</planet>
