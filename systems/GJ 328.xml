@@ -1,0 +1,31 @@
+<star>
+  <name>GJ 328</name>
+  <mass errorplus="0.05" errorminus="0.05">0.69</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>9.98</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="100.0" errorminus="100.0">3900.0</temperature>
+  <metallicity errorplus="0.15" errorminus="0.15">0.0</metallicity>
+  <spectraltype>K7</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>GJ 328 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_328_b/</source>
+    <mass></mass>
+    <period>4100.00000000</period>
+    <semimajoraxis>4.500000</semimajoraxis>
+    <eccentricity errorplus="0.05" errorminus="0.05">0.37</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="100.0" errorminus="100.0">2454500.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>14/08/29</lastUpdate>
+    <discovery>2013</discovery>
+    <eccentricity errorplus="0.050000" errorminus="-0.050000">0.370000</eccentricity>
+    <periastron errorplus="3.0000" errorminus="-3.0000">290.0000</periastron>
+    <periastrontime errorplus="100.000000" errorminus="-100.000000">2454500.000000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2013</discoveryyear>
+  </planet>
+</star>
