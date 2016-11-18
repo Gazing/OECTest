@@ -1,0 +1,29 @@
+<star>
+  <name>GJ 1214</name>
+  <mass errorplus="0.011" errorminus="0.011">0.15</mass>
+  <radius errorplus="0.012" errorminus="0.012">0.216</radius>
+  <magV>14.71</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="150.0" errorminus="150.0">3026.0</temperature>
+  <metallicity errorplus="0.15" errorminus="0.15">0.39</metallicity>
+  <spectraltype>M</spectraltype>
+  <age errorplus="3.0" errorminus="3.0">6.0</age>
+  <planet>
+    <name>GJ 1214 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_1214_b/</source>
+    <mass>0.01970</mass>
+    <period>1.58040456</period>
+    <semimajoraxis>0.014110</semimajoraxis>
+    <eccentricity errorplus="0.0" errorminus="0.27">0.27</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>14/05/21</lastUpdate>
+    <discovery>2009</discovery>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <discoverymethod>Transit</discoverymethod>
+    <lastupdate>2015-12-03</lastupdate>
+    <discoveryyear>2009</discoveryyear>
+  </planet>
+</star>
