@@ -1,0 +1,38 @@
+<star>
+  <name>CVSO 30</name>
+  <mass errorplus="0.05" errorminus="0.05">0.39</mass>
+  <radius errorplus="" errorminus="">1.39</radius>
+  <magV>16.26</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus="">3740.0</temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>M3 PMS</spectraltype>
+  <age errorplus="3e-05" errorminus="3e-05">0.00265</age>
+  <planet>
+    <name>CVSO 30 b </name>
+    <source>http://exoplanet.eu/catalog/CVSO_30_b_/</source>
+    <mass errorplus="1.9" errorminus="1.7">6.2</mass>
+    <period errorplus="4e-05" errorminus="4e-05">0.448413</period>
+    <semimajoraxis errorplus="0.00072" errorminus="0.00072">0.00838</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/06/12</lastUpdate>
+    <discovery>2012</discovery>
+  </planet>
+  <planet>
+    <name>CVSO 30 c</name>
+    <source>http://exoplanet.eu/catalog/CVSO_30_c/</source>
+    <mass errorplus="3.6" errorminus="2.0">4.7</mass>
+    <period errorplus="" errorminus=""></period>
+    <semimajoraxis errorplus="96.0" errorminus="96.0">662.0</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/06/12</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
