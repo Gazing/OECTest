@@ -1,0 +1,49 @@
+<star>
+  <name>GJ 832</name>
+  <mass errorplus="0.05" errorminus="0.05">0.45</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>8.67</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="0.2" errorminus="0.2">-0.31</metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>GJ 832 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_832_b/</source>
+    <mass></mass>
+    <period>3657.00000000</period>
+    <semimajoraxis>3.560000</semimajoraxis>
+    <eccentricity errorplus="0.08" errorminus="0.08">0.08</eccentricity>
+    <periastron errorplus="100.0" errorminus="58.0">246.0</periastron>
+    <periastrontime errorplus="353.0" errorminus="353.0">2451211.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>14/08/29</lastUpdate>
+    <discovery>2008</discovery>
+    <eccentricity errorplus="0.020000" errorminus="-0.060000">0.080000</eccentricity>
+    <periastron errorplus="22.0000" errorminus="-22.0000">246.0000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-06-25</lastupdate>
+    <discoveryyear>2009</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 832 c</name>
+    <source>http://exoplanet.eu/catalog/GJ_832_c/</source>
+    <mass></mass>
+    <period>35.68000000</period>
+    <semimajoraxis>0.163000</semimajoraxis>
+    <eccentricity errorplus="0.03" errorminus="0.22">0.03</eccentricity>
+    <periastron errorplus="80.0" errorminus="280.0">80.0</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>14/06/24</lastUpdate>
+    <discovery>2014</discovery>
+    <eccentricity errorplus="0.130000" errorminus="-0.130000">0.180000</eccentricity>
+    <periastron errorplus="47.0000" errorminus="-47.0000">10.0000</periastron>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-06-25</lastupdate>
+    <discoveryyear>2014</discoveryyear>
+  </planet>
+</star>
