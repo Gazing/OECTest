@@ -1,0 +1,51 @@
+<star>
+  <name>47 Uma</name>
+  <mass errorplus="0.05" errorminus="0.05">1.03</mass>
+  <radius errorplus="0.04" errorminus="0.04">1.24</radius>
+  <magV>5.1</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="70.0" errorminus="70.0">5892.0</temperature>
+  <metallicity errorplus="0.07" errorminus="0.07">0.0</metallicity>
+  <spectraltype>G0V</spectraltype>
+  <age errorplus="1.9" errorminus="1.9">7.4</age>
+  <planet>
+    <name>47 Uma b</name>
+    <source>http://exoplanet.eu/catalog/47_Uma_b/</source>
+    <mass errorplus="0.07" errorminus="0.06">2.53</mass>
+    <period errorplus="2.0" errorminus="2.0">1078.0</period>
+    <semimajoraxis errorplus="0.02" errorminus="0.02">2.1</semimajoraxis>
+    <eccentricity errorplus="0.014" errorminus="0.014">0.032</eccentricity>
+    <periastron errorplus="23.0" errorminus="23.0">334.0</periastron>
+    <periastrontime errorplus="63.0" errorminus="76.0">2451917.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>14/08/27</lastUpdate>
+    <discovery>1996</discovery>
+  </planet>
+  <planet>
+    <name>47 Uma c</name>
+    <source>http://exoplanet.eu/catalog/47_Uma_c/</source>
+    <mass errorplus="0.066" errorminus="0.073">0.54</mass>
+    <period errorplus="100.0" errorminus="87.0">2391.0</period>
+    <semimajoraxis errorplus="0.1" errorminus="0.1">3.6</semimajoraxis>
+    <eccentricity errorplus="0.047" errorminus="0.096">0.098</eccentricity>
+    <periastron errorplus="114.0" errorminus="160.0">295.0</periastron>
+    <periastrontime errorplus="628.0" errorminus="825.0">2456441.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>14/08/27</lastUpdate>
+    <discovery>2001</discovery>
+  </planet>
+  <planet>
+    <name>47 Uma d</name>
+    <source>http://exoplanet.eu/catalog/47_Uma_d/</source>
+    <mass errorplus="0.29" errorminus="0.48">1.64</mass>
+    <period errorplus="4018.0" errorminus="5095.0">14002.0</period>
+    <semimajoraxis errorplus="2.1" errorminus="2.9">11.6</semimajoraxis>
+    <eccentricity errorplus="0.09" errorminus="0.16">0.16</eccentricity>
+    <periastron errorplus="132.0" errorminus="160.0">110.0</periastron>
+    <periastrontime errorplus="6783.0" errorminus="5051.0">2451736.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>14/08/27</lastUpdate>
+    <discovery>2010</discovery>
+  </planet>
+</star>
