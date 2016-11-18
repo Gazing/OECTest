@@ -1,0 +1,38 @@
+<star>
+  <name>EPIC-206011691</name>
+  <mass errorplus="0.11" errorminus="0.11">0.64</mass>
+  <radius errorplus="0.1" errorminus="0.1">0.6</radius>
+  <magV>12.85</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="375.0" errorminus="375.0">4043.0</temperature>
+  <metallicity errorplus="0.13" errorminus="0.13">-0.11</metallicity>
+  <spectraltype>M0</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>EPIC-206011691 b</name>
+    <source>http://exoplanet.eu/catalog/EPIC-206011691_b/</source>
+    <mass errorplus="" errorminus=""></mass>
+    <period errorplus="0.00059" errorminus="0.00063">9.32414</period>
+    <semimajoraxis errorplus="0.0057" errorminus="0.0067">0.0731</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>15/08/28</lastUpdate>
+    <discovery>2015</discovery>
+  </planet>
+  <planet>
+    <name>EPIC-206011691 c</name>
+    <source>http://exoplanet.eu/catalog/EPIC-206011691_c/</source>
+    <mass errorplus="" errorminus=""></mass>
+    <period errorplus="0.00093" errorminus="0.00099">15.5012</period>
+    <semimajoraxis errorplus="0.0079" errorminus="0.0094">0.1026</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>15/08/28</lastUpdate>
+    <discovery>2015</discovery>
+  </planet>
+</star>
