@@ -1,37 +1,54 @@
 <system>
-	<name>CoRoT-23</name>
-	<rightascension>18 39 08</rightascension>
-	<declination>+04 21 28</declination>
-	<distance>600</distance>
-	<star>
-		<mass>1.14</mass>
-		<radius>1.61</radius>
-		<magV>15.63</magV>
-		<magB>16.0</magB>
-		<magR errorminus="0.25" errorplus="0.25">15.70</magR>
-		<magJ errorminus="0.026" errorplus="0.026">12.944</magJ>
-		<magH errorminus="0.029" errorplus="0.029">12.450</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.36</magK>
-		<metallicity>0.05</metallicity>
-		<spectraltype>G0V</spectraltype>
-		<planet>
-			<name>CoRoT-23 b</name>
-			<name>2MASS J18390782+0421281 b</name>
-			<list>Confirmed planets</list>
-			<mass>2.8</mass>
-			<radius>1.05</radius>
-			<period>3.6314</period>
-			<semimajoraxis>0.0477</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
-			<inclination>85.7</inclination>
-			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455308.939</transittime>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/09/20</lastupdate>
-			<discoveryyear>2011</discoveryyear>
-			<temperature>1508.9</temperature>
-			<istransiting>1</istransiting>
-		</planet>
-		<name>CoRoT-23</name>
-		<temperature>5900.0</temperature>
-	</star>
+  <name>CoRoT-23</name>
+  <rightascension>18 39 08</rightascension>
+  <declination>+04 21 28</declination>
+  <distance>600</distance>
+  <mass errorplus="0.08" errorminus="0.08">1.14</mass>
+  <radius errorplus="0.18" errorminus="0.18">1.61</radius>
+  <magV>15.63</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="100.0" errorminus="100.0">5900.0</temperature>
+  <metallicity errorplus="0.1" errorminus="0.1">0.05</metallicity>
+  <spectraltype>G0V</spectraltype>
+  <age errorplus="1.0" errorminus="1.0">7.2</age>
+  <star>
+    <name>CoRoT-23</name>
+    <mass>1.14</mass>
+    <radius>1.61</radius>
+    <magV>15.63</magV>
+    <magB>16.0</magB>
+    <magR errorminus="0.25" errorplus="0.25">15.70</magR>
+    <magJ errorminus="0.026" errorplus="0.026">12.944</magJ>
+    <magH errorminus="0.029" errorplus="0.029">12.450</magH>
+    <magK errorminus="0.03" errorplus="0.03">12.36</magK>
+    <metallicity>0.05</metallicity>
+    <spectraltype>G0V</spectraltype>
+    <temperature>5900.0</temperature>
+    <planet>
+      <name>CoRoT-23 b</name>
+      <name>2MASS J18390782+0421281 b</name>
+      <list>Confirmed planets</list>
+      <mass>2.80000</mass>
+      <radius>1.05</radius>
+      <period>3.63130000</period>
+      <semimajoraxis>0.048000</semimajoraxis>
+      <eccentricity errorplus="0.017" errorminus="0.017">0.16</eccentricity>
+      <inclination>85.7</inclination>
+      <transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455308.939</transittime>
+      <discoverymethod>Transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoveryyear>2012</discoveryyear>
+      <temperature>1508.9</temperature>
+      <istransiting>1</istransiting>
+      <source>http://exoplanet.eu/catalog/CoRoT-23_b/</source>
+      <periastron errorplus="9.0" errorminus="9.0">51.8</periastron>
+      <periastrontime errorplus="" errorminus=""></periastrontime>
+      <detectionMethod>IDK</detectionMethod>
+      <lastUpdate>14/01/26</lastUpdate>
+      <discovery>2011</discovery>
+      <eccentricity errorplus="0.020000" errorminus="-0.020000">0.160000</eccentricity>
+      <periastron errorplus="9.0000" errorminus="-9.0000">52.0000</periastron>
+    </planet>
+  </star>
 </system>
