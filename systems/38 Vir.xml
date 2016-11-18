@@ -1,0 +1,25 @@
+<star>
+  <name>38 Vir</name>
+  <mass errorplus="0.12" errorminus="0.12">1.18</mass>
+  <radius errorplus="0.07" errorminus="0.07">1.45</radius>
+  <magV>6.11</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="96.0" errorminus="96.0">6557.0</temperature>
+  <metallicity errorplus="" errorminus="">0.07</metallicity>
+  <spectraltype>F6 V</spectraltype>
+  <age errorplus="0.6" errorminus="0.7">1.9</age>
+  <planet>
+    <name>38 Vir b</name>
+    <source>http://exoplanet.eu/catalog/38_Vir_b/</source>
+    <mass errorplus="0.5" errorminus="0.5">4.51</mass>
+    <period errorplus="6.2" errorminus="6.2">825.9</period>
+    <semimajoraxis errorplus="0.07" errorminus="0.07">1.82</semimajoraxis>
+    <eccentricity errorplus="0.04" errorminus="0.04">0.03</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/09/10</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
