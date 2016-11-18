@@ -1,0 +1,44 @@
+<star>
+  <name>GJ 433</name>
+  <mass errorplus="" errorminus="">0.48</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>9.79</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus="">3600.0</temperature>
+  <metallicity errorplus="" errorminus="">-0.22</metallicity>
+  <spectraltype>M1.5</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>GJ 433 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_433_b/</source>
+    <mass></mass>
+    <period>7.37090000</period>
+    <semimajoraxis>0.058000</semimajoraxis>
+    <eccentricity errorplus="0.16" errorminus="0.05">0.05</eccentricity>
+    <periastron errorplus="" errorminus="">309.39</periastron>
+    <periastrontime errorplus="1.0" errorminus="1.0">2454287.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>14/05/25</lastUpdate>
+    <discovery>2009</discovery>
+    <eccentricity errorplus="0.080000" errorminus="-0.080000">0.080000</eccentricity>
+    <periastron errorplus="54.0000" errorminus="-54.0000">-156.0000</periastron>
+    <periastrontime errorplus="1.000000" errorminus="-1.000000">2454287.000000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2013</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 433 c</name>
+    <source>http://exoplanet.eu/catalog/GJ_433_c/</source>
+    <mass errorplus="" errorminus="">0.14</mass>
+    <period errorplus="253.0" errorminus="253.0">3693.0</period>
+    <semimajoraxis errorplus="" errorminus="">3.6</semimajoraxis>
+    <eccentricity errorplus="0.09" errorminus="0.09">0.17</eccentricity>
+    <periastron errorplus="36.0" errorminus="36.0">206.0</periastron>
+    <periastrontime errorplus="462.0" errorminus="462.0">2456740.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>14/05/25</lastUpdate>
+    <discovery>2012</discovery>
+  </planet>
+</star>
