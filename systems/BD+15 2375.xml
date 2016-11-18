@@ -1,0 +1,31 @@
+<star>
+  <name>BD+15 2375</name>
+  <mass errorplus="0.14" errorminus="0.14">1.08</mass>
+  <radius errorplus="1.45" errorminus="1.45">8.95</radius>
+  <magV>10.3</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="30.0" errorminus="30.0">4649.0</temperature>
+  <metallicity errorplus="0.08" errorminus="0.08">-0.22</metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="" errorminus="">7.4</age>
+  <planet>
+    <name>BD+15 2375 b</name>
+    <source>http://exoplanet.eu/catalog/BD+15_2375_b/</source>
+    <mass></mass>
+    <period>153.22000000</period>
+    <semimajoraxis>0.576000</semimajoraxis>
+    <eccentricity errorplus="0.25" errorminus="0.001">0.001</eccentricity>
+    <periastron errorplus="240.0" errorminus="17.0">55.0</periastron>
+    <periastrontime errorplus="700.0" errorminus="630.0">2457680.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/03/21</lastUpdate>
+    <discovery>2016</discovery>
+    <eccentricity errorplus="0.250000" errorminus="-0.001000">0.001000</eccentricity>
+    <periastron errorplus="240.0000" errorminus="-17.0000">55.0000</periastron>
+    <periastrontime errorplus="700.000000" errorminus="-630.000000">2457680.500000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-02-04</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
