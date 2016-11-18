@@ -1,0 +1,25 @@
+<star>
+  <name>2M 1207-39</name>
+  <mass errorplus="" errorminus="">0.025</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>20.15</magV>
+  <magH>13.0</magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>M8</spectraltype>
+  <age errorplus="0.003" errorminus="0.003">0.008</age>
+  <planet>
+    <name>2M 1207-39 b</name>
+    <source>http://exoplanet.eu/catalog/2M_1207-39_b/</source>
+    <mass errorplus="1.0" errorminus="1.0">4.0</mass>
+    <period errorplus="" errorminus=""></period>
+    <semimajoraxis errorplus="5.0" errorminus="5.0">46.0</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2004</discovery>
+  </planet>
+</star>
