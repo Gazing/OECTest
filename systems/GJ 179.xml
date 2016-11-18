@@ -1,0 +1,31 @@
+<star>
+  <name>GJ 179</name>
+  <mass errorplus="0.03" errorminus="0.03">0.357</mass>
+  <radius errorplus="0.02" errorminus="0.02">0.38</radius>
+  <magV>11.96</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="100.0" errorminus="100.0">3370.0</temperature>
+  <metallicity errorplus="0.1" errorminus="0.1">0.3</metallicity>
+  <spectraltype>M3.5</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>GJ 179 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_179_b/</source>
+    <mass></mass>
+    <period>2288.00000000</period>
+    <semimajoraxis>2.410000</semimajoraxis>
+    <eccentricity errorplus="0.08" errorminus="0.08">0.21</eccentricity>
+    <periastron errorplus="24.0" errorminus="24.0">153.0</periastron>
+    <periastrontime errorplus="104.0" errorminus="104.0">2455140.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2010</discovery>
+    <eccentricity errorplus="0.080000" errorminus="-0.080000">0.210000</eccentricity>
+    <periastron errorplus="24.0000" errorminus="-24.0000">153.0000</periastron>
+    <periastrontime errorplus="104.000000" errorminus="-104.000000">2455140.000000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2010</discoveryyear>
+  </planet>
+</star>
