@@ -1,0 +1,25 @@
+<star>
+  <name>8 Umi</name>
+  <mass errorplus="0.1" errorminus="0.1">1.8</mass>
+  <radius errorplus="0.4" errorminus="0.4">9.9</radius>
+  <magV>6.83</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="7.5" errorminus="7.5">4847.4</temperature>
+  <metallicity errorplus="0.02" errorminus="0.02">-0.03</metallicity>
+  <spectraltype>K0</spectraltype>
+  <age errorplus="0.2" errorminus="0.2">1.7</age>
+  <planet>
+    <name>8 Umi b</name>
+    <source>http://exoplanet.eu/catalog/8_Umi_b/</source>
+    <mass errorplus="0.2" errorminus="0.2">1.5</mass>
+    <period errorplus="4.5" errorminus="4.5">93.4</period>
+    <semimajoraxis errorplus="0.03" errorminus="0.03">0.49</semimajoraxis>
+    <eccentricity errorplus="0.18" errorminus="0.18">0.06</eccentricity>
+    <periastron errorplus="84.6" errorminus="84.6">91.0</periastron>
+    <periastrontime errorplus="22.8" errorminus="22.8">2454108.5</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>15/10/01</lastUpdate>
+    <discovery>2015</discovery>
+  </planet>
+</star>
