@@ -1,0 +1,38 @@
+<star>
+  <name>GJ 785</name>
+  <mass errorplus="0.02" errorminus="0.02">0.78</mass>
+  <radius errorplus="0.02" errorminus="0.02">0.68</radius>
+  <magV>6.13</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="50.0" errorminus="50.0">5144.0</temperature>
+  <metallicity errorplus="0.03" errorminus="0.03">0.08</metallicity>
+  <spectraltype>K1V</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>GJ 785 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_785_b/</source>
+    <mass errorplus="0.003" errorminus="0.003">0.0532</mass>
+    <period errorplus="0.1" errorminus="0.1">74.72</period>
+    <semimajoraxis errorplus="0.005" errorminus="0.005">0.32</semimajoraxis>
+    <eccentricity errorplus="0.04" errorminus="0.04">0.13</eccentricity>
+    <periastron errorplus="20.0" errorminus="20.0">173.0</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2010</discovery>
+  </planet>
+  <planet>
+    <name>GJ 785 c</name>
+    <source>http://exoplanet.eu/catalog/GJ_785_c/</source>
+    <mass errorplus="0.02" errorminus="0.02">0.076</mass>
+    <period errorplus="9.2" errorminus="9.2">525.8</period>
+    <semimajoraxis errorplus="0.025" errorminus="0.025">1.18</semimajoraxis>
+    <eccentricity errorplus="0.11" errorminus="0.11">0.32</eccentricity>
+    <periastron errorplus="21.0" errorminus="21.0">110.0</periastron>
+    <periastrontime errorplus="" errorminus="">2455151.02575</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/24</lastUpdate>
+    <discovery>2011</discovery>
+  </planet>
+</star>
