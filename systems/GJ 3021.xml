@@ -1,0 +1,31 @@
+<star>
+  <name>GJ 3021</name>
+  <mass errorplus="" errorminus="">0.9</mass>
+  <radius errorplus="" errorminus="">0.9</radius>
+  <magV>6.59</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="75.0" errorminus="75.0">5540.0</temperature>
+  <metallicity errorplus="0.08" errorminus="0.08">0.1</metallicity>
+  <spectraltype>G6 V</spectraltype>
+  <age errorplus="" errorminus="">8.77</age>
+  <planet>
+    <name>GJ 3021 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_3021_b/</source>
+    <mass></mass>
+    <period>133.71000000</period>
+    <semimajoraxis>0.490000</semimajoraxis>
+    <eccentricity errorplus="0.017" errorminus="0.017">0.511</eccentricity>
+    <periastron errorplus="3.0" errorminus="3.0">290.7</periastron>
+    <periastrontime errorplus="0.64" errorminus="0.64">2451545.86</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/07/29</lastUpdate>
+    <discovery>2000</discovery>
+    <eccentricity errorplus="0.017000" errorminus="-0.017000">0.511000</eccentricity>
+    <periastron errorplus="3.0000" errorminus="-3.0000">290.7000</periastron>
+    <periastrontime errorplus="0.640000" errorminus="-0.640000">2451545.860000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2001</discoveryyear>
+  </planet>
+</star>
