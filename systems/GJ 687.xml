@@ -1,0 +1,31 @@
+<star>
+  <name>GJ 687</name>
+  <mass errorplus="0.041" errorminus="0.041">0.413</mass>
+  <radius errorplus="0.007" errorminus="0.007">0.4183</radius>
+  <magV>9.15</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="28.0" errorminus="28.0">3413.0</temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>M3.5V</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>GJ 687 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_687_b/</source>
+    <mass></mass>
+    <period>38.14000000</period>
+    <semimajoraxis>0.163530</semimajoraxis>
+    <eccentricity errorplus="0.08" errorminus="0.08">0.04</eccentricity>
+    <periastron errorplus="121.0" errorminus="121.0">359.3</periastron>
+    <periastrontime errorplus="" errorminus="">2450603.97</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2014</discovery>
+    <eccentricity errorplus="0.076000" errorminus="-0.076000">0.040000</eccentricity>
+    <periastron errorplus="120.5430" errorminus="-120.5430">359.4300</periastron>
+    <periastrontime errorplus="9.320000" errorminus="-9.320000">2450579.110000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-28</lastupdate>
+    <discoveryyear>2014</discoveryyear>
+  </planet>
+</star>
