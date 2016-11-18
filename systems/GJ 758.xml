@@ -1,0 +1,25 @@
+<star>
+  <name>GJ 758</name>
+  <mass errorplus="" errorminus="">0.97</mass>
+  <radius errorplus="" errorminus="">0.88</radius>
+  <magV>6.36</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus="">5425.0</temperature>
+  <metallicity errorplus="0.04" errorminus="0.04">0.18</metallicity>
+  <spectraltype>K0V</spectraltype>
+  <age errorplus="0.5" errorminus="0.5">8.2</age>
+  <planet>
+    <name>GJ 758 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_758_b/</source>
+    <mass errorplus="5.0" errorminus="5.0">35.0</mass>
+    <period errorplus="198000.0" errorminus="62000.0">109000.0</period>
+    <semimajoraxis errorplus="44.4" errorminus="14.1">44.8</semimajoraxis>
+    <eccentricity errorplus="0.148" errorminus="0.148">0.564</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>15/03/14</lastUpdate>
+    <discovery>2009</discovery>
+  </planet>
+</star>
