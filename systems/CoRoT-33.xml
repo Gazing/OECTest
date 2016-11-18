@@ -1,0 +1,25 @@
+<star>
+  <name>CoRoT-33</name>
+  <mass errorplus="0.004" errorminus="0.004">0.86</mass>
+  <radius errorplus="0.14" errorminus="0.008">0.94</radius>
+  <magV>14.7</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="80.0" errorminus="80.0">5225.0</temperature>
+  <metallicity errorplus="0.1" errorminus="0.1">0.44</metallicity>
+  <spectraltype>G9V</spectraltype>
+  <age errorplus="5.0" errorminus="0.0">4.6</age>
+  <planet>
+    <name>CoRoT-33 b</name>
+    <source>http://exoplanet.eu/catalog/CoRoT-33_b/</source>
+    <mass errorplus="1.85" errorminus="1.84">59.2</mass>
+    <period errorplus="1.8e-05" errorminus="1.8e-05">5.819143</period>
+    <semimajoraxis errorplus="" errorminus="">0.0579</semimajoraxis>
+    <eccentricity errorplus="0.0016" errorminus="0.0016">0.07</eccentricity>
+    <periastron errorplus="0.87" errorminus="0.87">179.3</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>15/08/25</lastUpdate>
+    <discovery>2015</discovery>
+  </planet>
+</star>
