@@ -1,0 +1,61 @@
+<star>
+  <name>BD-06 1339</name>
+  <mass errorplus="" errorminus="">0.7</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>6.69</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="100.0" errorminus="100.0">4324.0</temperature>
+  <metallicity errorplus="0.17" errorminus="0.17">-0.14</metallicity>
+  <spectraltype>K7V/M0V</spectraltype>
+  <age errorplus="4.0" errorminus="4.0">4.4</age>
+  <planet>
+    <name>BD-06 1339 b</name>
+    <source>http://exoplanet.eu/catalog/BD-06_1339_b/</source>
+    <mass></mass>
+    <period>3.87280000</period>
+    <semimajoraxis>0.042800</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.000000</eccentricity>
+    <periastron errorplus="" errorminus="">0.0000</periastron>
+    <periastrontime errorplus="0.1" errorminus="0.1">2455220.5</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2013</discovery>
+    <periastrontime errorplus="0.100000" errorminus="-0.100000">2455220.500000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2013</discoveryyear>
+  </planet>
+  <planet>
+    <name>BD-06 1339 c</name>
+    <source>http://exoplanet.eu/catalog/BD-06_1339_c/</source>
+    <mass></mass>
+    <period>125.94000000</period>
+    <semimajoraxis>0.435000</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.0</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="17.6" errorminus="17.6">2455264.2</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2013</discovery>
+    <eccentricity errorplus="0.110000" errorminus="-0.110000">0.310000</eccentricity>
+    <periastron errorplus="55.0000" errorminus="-55.0000">41.0000</periastron>
+    <periastrontime errorplus="17.600000" errorminus="-17.600000">2455265.200000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2013</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 221  BD-06 1339 d</name>
+    <source>http://exoplanet.eu/catalog/GJ_221__BD-06_1339_d/</source>
+    <mass errorplus="0.057" errorminus="0.063">0.091</mass>
+    <period errorplus="32.0" errorminus="26.0">500.0</period>
+    <semimajoraxis errorplus="0.07" errorminus="0.07">1.06</semimajoraxis>
+    <eccentricity errorplus="0.25" errorminus="0.04">0.04</eccentricity>
+    <periastron errorplus="275.0" errorminus="85.0">275.0</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2014</discovery>
+  </planet>
+</star>
