@@ -1,0 +1,25 @@
+<star>
+  <name>EPIC 2011391664</name>
+  <mass errorplus="0.042" errorminus="0.042">1.074</mass>
+  <radius errorplus="0.083" errorminus="0.048">1.311</radius>
+  <magV>12.166</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="80.0" errorminus="80.0">6120.0</temperature>
+  <metallicity errorplus="0.1" errorminus="0.1">-0.2</metallicity>
+  <spectraltype>F8V</spectraltype>
+  <age errorplus="1.2" errorminus="1.0">5.2</age>
+  <planet>
+    <name>EPIC 211391664 b</name>
+    <source>http://exoplanet.eu/catalog/EPIC_211391664_b/</source>
+    <mass errorplus="0.025" errorminus="0.025">0.101</mass>
+    <period errorplus="0.00033" errorminus="0.00033">10.13675</period>
+    <semimajoraxis errorplus="0.0061" errorminus="0.0052">0.0943</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/08/04</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
