@@ -1,0 +1,44 @@
+<star>
+  <name>GJ 649</name>
+  <mass errorplus="0.05" errorminus="0.05">0.54</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>9.7</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="60.0" errorminus="60.0">3700.0</temperature>
+  <metallicity errorplus="0.06" errorminus="0.06">0.08</metallicity>
+  <spectraltype>M1.5</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>GJ 649 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_649_b/</source>
+    <mass></mass>
+    <period>598.30000000</period>
+    <semimajoraxis>1.135000</semimajoraxis>
+    <eccentricity errorplus="0.08" errorminus="0.08">0.3</eccentricity>
+    <periastron errorplus="15.0" errorminus="15.0">352.0</periastron>
+    <periastrontime errorplus="22.0" errorminus="22.0">12876.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2009</discovery>
+    <eccentricity errorplus="0.080000" errorminus="-0.080000">0.300000</eccentricity>
+    <periastron errorplus="15.0000" errorminus="-15.0000">352.0000</periastron>
+    <periastrontime errorplus="22.000000" errorminus="-22.000000">2412876.000000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2010</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 649 c</name>
+    <source>http://exoplanet.eu/catalog/GJ_649_c/</source>
+    <mass errorplus="0.008" errorminus="0.008">0.03</mass>
+    <period errorplus="0.0004" errorminus="0.0004">4.4762</period>
+    <semimajoraxis errorplus="0.001" errorminus="0.001">0.043</semimajoraxis>
+    <eccentricity errorplus="0.15" errorminus="0.15">0.2</eccentricity>
+    <periastron errorplus="47.0" errorminus="47.0">334.0</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2013</discovery>
+  </planet>
+</star>
