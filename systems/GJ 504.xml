@@ -1,0 +1,28 @@
+<star>
+  <name>GJ 504</name>
+  <mass errorplus="0.08" errorminus="0.08">1.22</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>5.22</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="25.0" errorminus="25.0">6234.0</temperature>
+  <metallicity errorplus="0.03" errorminus="0.03">0.28</metallicity>
+  <spectraltype>GOV</spectraltype>
+  <age errorplus="0.06" errorminus="0.35">0.16</age>
+  <planet>
+    <name>GJ 504 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_504_b/</source>
+    <mass>4.00000</mass>
+    <period></period>
+    <semimajoraxis>43.500000</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>15/12/01</lastUpdate>
+    <discovery>2013</discovery>
+    <discoverymethod>Imaging</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2013</discoveryyear>
+  </planet>
+</star>
