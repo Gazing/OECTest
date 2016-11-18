@@ -1,40 +1,60 @@
 <system>
-	<name>CoRoT-5</name>
-	<rightascension>06 45 07</rightascension>
-	<declination>+00 48 55</declination>
-	<distance>400</distance>
-	<star>
-		<mass errorminus="0.02" errorplus="0.02">1.00</mass>
-		<radius errorminus="0.04" errorplus="0.04">1.186</radius>
-		<magV>14</magV>
-		<magR>13.82</magR>
-		<magB errorminus="0.35" errorplus="0.35">14.67</magB>
-		<magI errorminus="0.03" errorplus="0.03">13.29</magI>
-		<magJ errorminus="0.024" errorplus="0.024">12.871</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.61</magH>
-		<magK errorminus="0.026" errorplus="0.026">12.546</magK>
-		<metallicity errorminus="0.06" errorplus="0.06">-0.25</metallicity>
-		<spectraltype>F9V</spectraltype>
-		<planet>
-			<name>CoRoT-5 b</name>
-			<name>CoRoT-Exo-5 b</name>
-			<name>CoRoTID 102764809 b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.024" errorplus="0.047">0.467</mass>
-			<radius errorminus="0.047" errorplus="0.046">1.388</radius>
-			<period errorminus="0.0000019" errorplus="0.0000019">4.0378962</period>
-			<semimajoraxis errorminus="0.00029" errorplus="0.00026">0.04947</semimajoraxis>
-			<eccentricity errorminus="0.04" errorplus="0.09">0.09</eccentricity>
-			<inclination errorminus="1.38" errorplus="0.99">85.83</inclination>
-			<description>CoRoT 6 is an F-type star in the constellation Monoceros.</description>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>09/07/18</lastupdate>
-			<discoveryyear>2008</discoveryyear>
-			<temperature>1316.3</temperature>
-			<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2454400.19963</transittime>
-			<istransiting>1</istransiting>
-		</planet>
-		<name>CoRoT-5</name>
-		<temperature>6100.0</temperature>
-	</star>
+  <name>CoRoT-5</name>
+  <rightascension>06 45 07</rightascension>
+  <declination>+00 48 55</declination>
+  <distance>400</distance>
+  <mass errorplus="0.02" errorminus="0.02">1.0</mass>
+  <radius errorplus="0.04" errorminus="0.04">1.186</radius>
+  <magV>14.0</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="65.0" errorminus="65.0">6100.0</temperature>
+  <metallicity errorplus="0.06" errorminus="0.06">-0.25</metallicity>
+  <spectraltype>F9V</spectraltype>
+  <age errorplus="1.4" errorminus="1.4">6.9</age>
+  <star>
+    <name>CoRoT-5</name>
+    <mass errorminus="0.02" errorplus="0.02">1.00</mass>
+    <radius errorminus="0.04" errorplus="0.04">1.186</radius>
+    <magV>14</magV>
+    <magR>13.82</magR>
+    <magB errorminus="0.35" errorplus="0.35">14.67</magB>
+    <magI errorminus="0.03" errorplus="0.03">13.29</magI>
+    <magJ errorminus="0.024" errorplus="0.024">12.871</magJ>
+    <magH errorminus="0.03" errorplus="0.03">12.61</magH>
+    <magK errorminus="0.026" errorplus="0.026">12.546</magK>
+    <metallicity errorminus="0.06" errorplus="0.06">-0.25</metallicity>
+    <spectraltype>F9V</spectraltype>
+    <temperature>6100.0</temperature>
+    <planet>
+      <name>CoRoT-5 b</name>
+      <name>CoRoT-Exo-5 b</name>
+      <name>CoRoTID 102764809 b</name>
+      <list>Confirmed planets</list>
+      <mass>0.46700</mass>
+      <radius errorminus="0.047" errorplus="0.046">1.388</radius>
+      <period>4.03789620</period>
+      <semimajoraxis>0.049470</semimajoraxis>
+      <eccentricity errorminus="0.04" errorplus="0.09">0.09</eccentricity>
+      <inclination errorminus="1.38" errorplus="0.99">85.83</inclination>
+      <description>CoRoT 6 is an F-type star in the constellation Monoceros.</description>
+      <discoverymethod>Transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoveryyear>2009</discoveryyear>
+      <temperature>1316.3</temperature>
+      <transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2454400.19963</transittime>
+      <istransiting>1</istransiting>
+      <source>http://exoplanet.eu/catalog/CoRoT-5_b/</source>
+      <period errorplus="1.9e-06" errorminus="1.9e-06">4.0378962</period>
+      <semimajoraxis errorplus="0.00029" errorminus="0.00029">0.04947</semimajoraxis>
+      <eccentricity errorplus="0.04" errorminus="0.04">0.09</eccentricity>
+      <periastron errorplus="48.0" errorminus="48.0">231.7</periastron>
+      <periastrontime errorplus="" errorminus=""></periastrontime>
+      <detectionMethod>IDK</detectionMethod>
+      <lastUpdate>14/05/22</lastUpdate>
+      <discovery>2008</discovery>
+      <eccentricity errorplus="0.090000" errorminus="-0.040000">0.090000</eccentricity>
+      <periastron errorplus="289.3400" errorminus="-48.1300">-128.3400</periastron>
+    </planet>
+  </star>
 </system>
