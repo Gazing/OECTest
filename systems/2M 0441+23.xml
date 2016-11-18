@@ -1,0 +1,25 @@
+<star>
+  <name>2M 0441+23</name>
+  <mass errorplus="" errorminus="">0.02</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV></magV>
+  <magH>14.2</magH>
+  <magJ>13.72</magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>M8.5</spectraltype>
+  <age errorplus="" errorminus="">0.001</age>
+  <planet>
+    <name>2M 0441+23 b</name>
+    <source>http://exoplanet.eu/catalog/2M_0441+23_b/</source>
+    <mass errorplus="2.5" errorminus="2.5">7.5</mass>
+    <period errorplus="" errorminus=""></period>
+    <semimajoraxis errorplus="0.6" errorminus="0.6">15.0</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2010</discovery>
+  </planet>
+</star>
