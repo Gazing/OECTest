@@ -1,0 +1,31 @@
+<star>
+  <name>GJ 674</name>
+  <mass errorplus="" errorminus="">0.35</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>9.38</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="100.0" errorminus="100.0">3600.0</temperature>
+  <metallicity errorplus="" errorminus="">-0.28</metallicity>
+  <spectraltype>M2.5</spectraltype>
+  <age errorplus="0.45" errorminus="0.45">0.55</age>
+  <planet>
+    <name>GJ 674 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_674_b/</source>
+    <mass></mass>
+    <period>4.69380000</period>
+    <semimajoraxis>0.039000</semimajoraxis>
+    <eccentricity errorplus="0.07" errorminus="0.0766">0.07</eccentricity>
+    <periastron errorplus="71.2" errorminus="71.2">0.5</periastron>
+    <periastrontime errorplus="" errorminus="">2453823.784</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>15/02/27</lastUpdate>
+    <discovery>2007</discovery>
+    <eccentricity errorplus="0.020000" errorminus="-0.020000">0.200000</eccentricity>
+    <periastron errorplus="6.0000" errorminus="-6.0000">143.0000</periastron>
+    <periastrontime errorplus="0.078000" errorminus="-0.078000">2453780.085000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2007</discoveryyear>
+  </planet>
+</star>
