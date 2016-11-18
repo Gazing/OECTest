@@ -1,0 +1,25 @@
+<star>
+  <name>EPIC 211970147</name>
+  <mass errorplus="0.06" errorminus="0.06">0.77</mass>
+  <radius errorplus="0.03" errorminus="0.03">0.71</radius>
+  <magV></magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="50.0" errorminus="50.0">4695.0</temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="" errorminus="">0.8</age>
+  <planet>
+    <name>EPIC 211970147 b</name>
+    <source>http://exoplanet.eu/catalog/EPIC_211970147_b/</source>
+    <mass errorplus="" errorminus=""></mass>
+    <period errorplus="0.001209" errorminus="0.001195">9.915615</period>
+    <semimajoraxis errorplus="" errorminus=""></semimajoraxis>
+    <eccentricity errorplus="0.16" errorminus="0.07">0.1</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/09/07</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
