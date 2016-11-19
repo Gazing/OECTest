@@ -1,0 +1,36 @@
+<star>
+  <name>GJ 536</name>
+  <mass errorplus="0.05" errorminus="0.05">0.52</mass>
+  <radius errorplus="0.05" errorminus="0.05">0.5</radius>
+  <magV></magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="68.0" errorminus="68.0">3685.0</temperature>
+  <metallicity errorplus="0.09" errorminus="0.09">-0.08</metallicity>
+  <spectraltype>M1</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>GJ 536</name>
+    <mass errorplus="0.0022" errorminus="0.002">0.0169</mass>
+    <period errorplus="0.0022" errorminus="0.0025">8.7076</period>
+    <semimajoraxis errorplus="1e-05" errorminus="1.3e-05">0.06661</semimajoraxis>
+    <eccentricity errorplus="0.09" errorminus="0.06">0.08</eccentricity>
+    <periastron errorplus="42.5" errorminus="50.6">288.7</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/11/08</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+  <planet>
+    <name>GJ 536 b</name>
+    <mass></mass>
+    <period>8.70760000</period>
+    <semimajoraxis>0.066610</semimajoraxis>
+    <eccentricity errorplus="0.090000" errorminus="-0.060000">0.080000</eccentricity>
+    <periastron errorplus="42.5000" errorminus="-50.6000">288.7000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-11-17</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
