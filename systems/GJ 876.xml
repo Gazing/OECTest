@@ -1,0 +1,84 @@
+<star>
+  <name>GJ 876</name>
+  <mass errorplus="0.03" errorminus="0.03">0.334</mass>
+  <radius errorplus="" errorminus="">0.36</radius>
+  <magV>10.17</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="300.0" errorminus="300.0">3350.0</temperature>
+  <metallicity errorplus="0.2" errorminus="0.2">0.05</metallicity>
+  <spectraltype>M4 V</spectraltype>
+  <age errorplus="2.4" errorminus="2.4">2.5</age>
+  <planet>
+    <name>GJ 876 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_876_b/</source>
+    <mass>2.27560</mass>
+    <period>61.11660000</period>
+    <semimajoraxis>0.208317</semimajoraxis>
+    <eccentricity errorplus="0.001" errorminus="0.001">0.0</eccentricity>
+    <periastron errorplus="1.1" errorminus="1.1">116.7</periastron>
+    <periastrontime errorplus="" errorminus="">2450602.093000</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2000</discovery>
+    <eccentricity errorplus="0.001300" errorminus="-0.001300">0.032400</eccentricity>
+    <periastron errorplus="3.2000" errorminus="-3.2000">50.3000</periastron>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-08-27</lastupdate>
+    <discoveryyear>1998</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 876 c</name>
+    <source>http://exoplanet.eu/catalog/GJ_876_c/</source>
+    <mass>0.71420</mass>
+    <period>30.08810000</period>
+    <semimajoraxis>0.129590</semimajoraxis>
+    <eccentricity errorplus="0.001" errorminus="0.001">0.002</eccentricity>
+    <periastron errorplus="5.0" errorminus="5.0">225.2</periastron>
+    <periastrontime errorplus="" errorminus="">2450602.093000</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2000</discovery>
+    <eccentricity errorplus="0.000930" errorminus="-0.000930">0.255910</eccentricity>
+    <periastron errorplus="0.7000" errorminus="-0.7000">48.7600</periastron>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-08-27</lastupdate>
+    <discoveryyear>2001</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 876 d</name>
+    <source>http://exoplanet.eu/catalog/GJ_876_d/</source>
+    <mass>0.02100</mass>
+    <period>1.93778000</period>
+    <semimajoraxis>0.020807</semimajoraxis>
+    <eccentricity errorplus="0.04" errorminus="0.04">0.081</eccentricity>
+    <periastron errorplus="23.0" errorminus="23.0">157.4</periastron>
+    <periastrontime errorplus="" errorminus="">2450602.093000</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2005</discovery>
+    <eccentricity errorplus="0.055000" errorminus="-0.055000">0.207000</eccentricity>
+    <periastron errorplus="20.0000" errorminus="-20.0000">234.0000</periastron>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-08-27</lastupdate>
+    <discoveryyear>2005</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 876 e</name>
+    <source>http://exoplanet.eu/catalog/GJ_876_e/</source>
+    <mass>0.04600</mass>
+    <period>124.26000000</period>
+    <semimajoraxis>0.334300</semimajoraxis>
+    <eccentricity errorplus="0.048" errorminus="0.048">0.073</eccentricity>
+    <periastron errorplus="15.8" errorminus="15.8">360.0</periastron>
+    <periastrontime errorplus="" errorminus="">2450602.093000</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2010</discovery>
+    <eccentricity errorplus="0.012000" errorminus="-0.012000">0.055000</eccentricity>
+    <periastron errorplus="22.0000" errorminus="-22.0000">239.0000</periastron>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-08-27</lastupdate>
+    <discoveryyear>2010</discoveryyear>
+  </planet>
+</star>
