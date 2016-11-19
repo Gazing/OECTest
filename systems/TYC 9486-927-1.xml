@@ -1,0 +1,24 @@
+<star>
+  <name>TYC 9486-927-1</name>
+  <mass errorplus="" errorminus="">0.4</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>9.0</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>M2</spectraltype>
+  <age errorplus="0.017" errorminus="0.017">0.027</age>
+  <planet>
+    <name>2M J2126-81 b</name>
+    <mass errorplus="1.7" errorminus="1.7">13.3</mass>
+    <period errorplus="" errorminus=""></period>
+    <semimajoraxis errorplus="" errorminus="">6900.0</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
