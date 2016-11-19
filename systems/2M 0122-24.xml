@@ -1,0 +1,24 @@
+<star>
+  <name>2M 0122-24</name>
+  <mass errorplus="0.05" errorminus="0.05">0.4</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV></magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>M3.5</spectraltype>
+  <age errorplus="0.01" errorminus="0.01">0.12</age>
+  <planet>
+    <name>2M 0122-24 b</name>
+    <mass errorplus="7.0" errorminus="7.0">20.0</mass>
+    <period errorplus="" errorminus=""></period>
+    <semimajoraxis errorplus="6.0" errorminus="6.0">52.0</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2013</discovery>
+  </planet>
+</star>
