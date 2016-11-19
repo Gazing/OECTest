@@ -1,0 +1,30 @@
+<star>
+  <name>GJ 436</name>
+  <mass errorplus="0.012" errorminus="0.012">0.452</mass>
+  <radius errorplus="0.011" errorminus="0.011">0.464</radius>
+  <magV>10.68</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="55.0" errorminus="55.0">3684.0</temperature>
+  <metallicity errorplus="0.12" errorminus="0.12">-0.32</metallicity>
+  <spectraltype>M2.5</spectraltype>
+  <age errorplus="5.0" errorminus="5.0">6.0</age>
+  <planet>
+    <name>GJ 436 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_436_b/</source>
+    <mass>0.07000</mass>
+    <period>2.64388312</period>
+    <semimajoraxis>0.029100</semimajoraxis>
+    <eccentricity errorplus="0.0449" errorminus="0.0571">0.1912</eccentricity>
+    <periastron errorplus="15.3" errorminus="15.3">354.4</periastron>
+    <periastrontime errorplus="" errorminus="">2455959.000000</periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/06/02</lastUpdate>
+    <discovery>2004</discovery>
+    <eccentricity errorplus="0.000180" errorminus="-0.000180">0.138270</eccentricity>
+    <periastron errorplus="0.0300" errorminus="-0.0300">351.0000</periastron>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2015-02-05</lastupdate>
+    <discoveryyear>2004</discoveryyear>
+  </planet>
+</star>
