@@ -1,0 +1,25 @@
+<star>
+  <name>PSR J0636</name>
+  <mass errorplus="" errorminus="">1.4</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV></magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>PSR</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>PSR 0636 b</name>
+    <source>http://exoplanet.eu/catalog/PSR_0636_b/</source>
+    <mass errorplus="" errorminus="">8.0</mass>
+    <period errorplus="" errorminus="">0.067</period>
+    <semimajoraxis errorplus="" errorminus=""></semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/10/28</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
