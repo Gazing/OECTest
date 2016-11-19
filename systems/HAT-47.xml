@@ -1,0 +1,25 @@
+<star>
+  <name>HAT-47</name>
+  <mass errorplus="0.038" errorminus="0.038">1.387</mass>
+  <radius errorplus="0.04" errorminus="0.04">1.515</radius>
+  <magV>10.6</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="50.0" errorminus="50.0">6703.0</temperature>
+  <metallicity errorplus="0.08" errorminus="0.08">0.0</metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="0.3" errorminus="0.3">1.5</age>
+  <planet>
+    <name>HAT-47 b</name>
+    <source>http://exoplanet.eu/catalog/HAT-47_b/</source>
+    <mass errorplus="0.039" errorminus="0.039">0.206</mass>
+    <period errorplus="1.3e-05" errorminus="1.3e-05">4.732182</period>
+    <semimajoraxis errorplus="0.0006" errorminus="0.0006">0.0615</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.0</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/06/16</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
