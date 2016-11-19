@@ -1,0 +1,24 @@
+<star>
+  <name>2M 0219-39</name>
+  <mass errorplus="0.01" errorminus="0.01">0.11</mass>
+  <radius errorplus="0.01" errorminus="0.01">0.27</radius>
+  <magV></magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="76.0" errorminus="76.0">3064.0</temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>M6</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>2M 0219-39 b</name>
+    <mass errorplus="1.1" errorminus="1.1">13.9</mass>
+    <period errorplus="" errorminus=""></period>
+    <semimajoraxis errorplus="10.0" errorminus="10.0">156.0</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2015</discovery>
+  </planet>
+</star>
