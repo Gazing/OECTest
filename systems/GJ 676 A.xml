@@ -1,0 +1,86 @@
+<star>
+  <name>GJ 676 A</name>
+  <mass errorplus="0.04" errorminus="0.04">0.71</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>9.59</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="0.1" errorminus="0.1">0.23</metallicity>
+  <spectraltype>M0V</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>GJ 676 A b</name>
+    <source>http://exoplanet.eu/catalog/GJ_676_A_b/</source>
+    <mass>6.70000</mass>
+    <period>1051.10000000</period>
+    <semimajoraxis>1.812000</semimajoraxis>
+    <eccentricity errorplus="0.002" errorminus="0.002">0.323</eccentricity>
+    <periastron errorplus="0.4" errorminus="0.4">87.4</periastron>
+    <periastrontime errorplus="3.0" errorminus="3.0">2455411.9</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/08/03</lastUpdate>
+    <discovery>2009</discovery>
+    <eccentricity errorplus="0.002000" errorminus="-0.002000">0.323000</eccentricity>
+    <periastron errorplus="0.4000" errorminus="-0.4000">87.4000</periastron>
+    <periastrontime errorplus="0.800000" errorminus="-0.800000">2455410.400000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-09-29</lastupdate>
+    <discoveryyear>2011</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 676 A c</name>
+    <source>http://exoplanet.eu/catalog/GJ_676_A_c/</source>
+    <mass></mass>
+    <period>7337.00000000</period>
+    <semimajoraxis>6.600000</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/08/03</lastUpdate>
+    <discovery>2012</discovery>
+    <periastrontime errorplus="57.600000" errorminus="-60.200000">2450495.200000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-09-29</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 676 A d</name>
+    <source>http://exoplanet.eu/catalog/GJ_676_A_d/</source>
+    <mass></mass>
+    <period>3.60050000</period>
+    <semimajoraxis></semimajoraxis>
+    <eccentricity errorplus="0.09" errorminus="0.09">0.15</eccentricity>
+    <periastron errorplus="109.0" errorminus="109.0">315.0</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2012</discovery>
+    <eccentricity errorplus="0.090000" errorminus="-0.101000">0.262000</eccentricity>
+    <periastron errorplus="13.8000" errorminus="-16.3000">-48.7000</periastron>
+    <periastrontime errorplus="0.100000" errorminus="-0.100000">2455498.700000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-09-29</lastupdate>
+    <discoveryyear>2012</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 676 A e</name>
+    <source>http://exoplanet.eu/catalog/GJ_676_A_e/</source>
+    <mass></mass>
+    <period>35.39000000</period>
+    <semimajoraxis></semimajoraxis>
+    <eccentricity errorplus="0.12" errorminus="0.12">0.24</eccentricity>
+    <periastron errorplus="126.0" errorminus="126.0">332.0</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2012</discovery>
+    <eccentricity errorplus="0.119000" errorminus="-0.087000">0.125000</eccentricity>
+    <periastron errorplus="19.7000" errorminus="-57.9000">331.7000</periastron>
+    <periastrontime errorplus="1.900000" errorminus="-5.600000">2455509.200000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-09-29</lastupdate>
+    <discoveryyear>2012</discoveryyear>
+  </planet>
+</star>
