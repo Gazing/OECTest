@@ -1,0 +1,15 @@
+<star>
+  <name>HD 133131 B</name>
+  <planet>
+    <name>HD 133131 B b</name>
+    <mass></mass>
+    <period>5769.00000000</period>
+    <semimajoraxis>6.150000</semimajoraxis>
+    <eccentricity errorplus="0.040000" errorminus="-0.040000">0.610000</eccentricity>
+    <periastron errorplus="3.0000" errorminus="-3.0000">103.0000</periastron>
+    <periastrontime errorplus="828.000000" errorminus="-828.000000">2450644.000000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-09-08</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
