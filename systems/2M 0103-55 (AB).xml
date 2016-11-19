@@ -1,0 +1,24 @@
+<star>
+  <name>2M 0103-55 (AB)</name>
+  <mass errorplus="" errorminus="">0.4</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV></magV>
+  <magH>7.5</magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>M</spectraltype>
+  <age errorplus="" errorminus="">0.03</age>
+  <planet>
+    <name>2M 0103-55 (AB) b</name>
+    <mass errorplus="1.0" errorminus="1.0">13.0</mass>
+    <period errorplus="" errorminus=""></period>
+    <semimajoraxis errorplus="" errorminus="">84.0</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2013</discovery>
+  </planet>
+</star>
