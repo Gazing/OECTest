@@ -1,0 +1,25 @@
+<star>
+  <name>CL Tau</name>
+  <mass errorplus="0.02" errorminus="0.02">0.8</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>13.0</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>T Tau</spectraltype>
+  <age errorplus="" errorminus="">0.002</age>
+  <planet>
+    <name>CL Tau b</name>
+    <source>http://exoplanet.eu/catalog/CL_Tau_b/</source>
+    <mass errorplus="2.39" errorminus="2.39">12.31</mass>
+    <period errorplus="0.0327" errorminus="0.0327">8.9965</period>
+    <semimajoraxis errorplus="" errorminus=""></semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/05/26</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
