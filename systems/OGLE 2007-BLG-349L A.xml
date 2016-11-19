@@ -1,0 +1,15 @@
+<star>
+  <name>OGLE 2007-BLG-349L A</name>
+  <planet>
+    <name>OGLE 2007-BLG-349L AB c</name>
+    <mass>0.25171</mass>
+    <period>2557.00000000</period>
+    <semimajoraxis>2.590000</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Microlensing</discoverymethod>
+    <lastupdate>2016-09-29</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
