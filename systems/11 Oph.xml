@@ -1,0 +1,24 @@
+<star>
+  <name>11 Oph</name>
+  <mass errorplus="0.005" errorminus="0.005">0.0162</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV></magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="175.0" errorminus="175.0">2375.0</temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>M9</spectraltype>
+  <age errorplus="0.002" errorminus="0.002">0.011</age>
+  <planet>
+    <name>11 Oph b</name>
+    <mass errorplus="3.0" errorminus="3.0">21.0</mass>
+    <period errorplus="365000.0" errorminus="365000.0">730000.0</period>
+    <semimajoraxis errorplus="55.0" errorminus="55.0">243.0</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/02/26</lastUpdate>
+    <discovery>2007</discovery>
+  </planet>
+</star>
