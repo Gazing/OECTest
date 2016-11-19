@@ -1,0 +1,24 @@
+<star>
+  <name>HD 175370</name>
+  <mass errorplus="0.16" errorminus="0.16">1.02</mass>
+  <radius errorplus="3.4" errorminus="3.4">23.5</radius>
+  <magV>7.19</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="43.0" errorminus="43.0">4301.0</temperature>
+  <metallicity errorplus="0.07" errorminus="0.07">-0.52</metallicity>
+  <spectraltype>K2 III</spectraltype>
+  <age errorplus="5.0" errorminus="6.0">8.7</age>
+  <planet>
+    <name>HD 175370 b</name>
+    <mass errorplus="1.0" errorminus="1.0">4.6</mass>
+    <period errorplus="4.5" errorminus="4.5">349.5</period>
+    <semimajoraxis errorplus="0.05" errorminus="0.05">0.98</semimajoraxis>
+    <eccentricity errorplus="0.1" errorminus="0.1">0.22</eccentricity>
+    <periastron errorplus="28.0" errorminus="28.0">162.0</periastron>
+    <periastrontime errorplus="30.0" errorminus="30.0">2456267.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/09/21</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
