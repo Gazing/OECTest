@@ -1,0 +1,31 @@
+<star>
+  <name>91 Aqr</name>
+  <mass errorplus="0.1" errorminus="0.1">1.4</mass>
+  <radius errorplus="0.1" errorminus="0.1">11.0</radius>
+  <magV>4.21</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="18.0" errorminus="18.0">4665.0</temperature>
+  <metallicity errorplus="0.1" errorminus="0.1">-0.03</metallicity>
+  <spectraltype>K0 III</spectraltype>
+  <age errorplus="0.63" errorminus="0.63">3.56</age>
+  <planet>
+    <name>91 Aqr b</name>
+    <source>http://exoplanet.eu/catalog/91_Aqr_b/</source>
+    <mass></mass>
+    <period>181.40000000</period>
+    <semimajoraxis>0.700000</semimajoraxis>
+    <eccentricity errorplus="0.026" errorminus="0.026">0.027</eccentricity>
+    <periastron errorplus="0.8" errorminus="0.8">177.3</periastron>
+    <periastrontime errorplus="24.0" errorminus="24.0">2453472.1</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>15/08/21</lastUpdate>
+    <discovery>2003</discovery>
+    <eccentricity errorplus="0.026000" errorminus="-0.026000">0.027000</eccentricity>
+    <periastron errorplus="0.8000" errorminus="-0.8000">177.3000</periastron>
+    <periastrontime errorplus="24.500000" errorminus="-24.500000">2453472.100000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2013</discoveryyear>
+  </planet>
+</star>
