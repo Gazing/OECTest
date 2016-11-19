@@ -1,0 +1,117 @@
+<star>
+  <name>GJ 667 C</name>
+  <mass errorplus="" errorminus="">0.33</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>10.22</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus="">3600.0</temperature>
+  <metallicity errorplus="" errorminus="">-0.55</metallicity>
+  <spectraltype>M1.5V</spectraltype>
+  <age errorplus="inf" errorminus="nan">2.0</age>
+  <planet>
+    <name>GJ 667 C b</name>
+    <source>http://exoplanet.eu/catalog/GJ_667_C_b/</source>
+    <mass></mass>
+    <period>7.20040000</period>
+    <semimajoraxis>0.050500</semimajoraxis>
+    <eccentricity errorplus="0.1" errorminus="0.11">0.13</eccentricity>
+    <periastron errorplus="360.0" errorminus="360.0">5.7</periastron>
+    <periastrontime errorplus="0.6" errorminus="0.6">2454443.1</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2009</discovery>
+    <eccentricity errorplus="0.100000" errorminus="-0.110000">0.130000</eccentricity>
+    <periastron errorplus="354.3000" errorminus="-5.7000">5.7000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2013</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 667 C c</name>
+    <source>http://exoplanet.eu/catalog/GJ_667_C_c/</source>
+    <mass></mass>
+    <period>28.14000000</period>
+    <semimajoraxis>0.125000</semimajoraxis>
+    <eccentricity errorplus="0.15" errorminus="0.02">0.02</eccentricity>
+    <periastron errorplus="360.0" errorminus="360.0">292.0</periastron>
+    <periastrontime errorplus="1.0" errorminus="1.0">2454462.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/10/08</lastUpdate>
+    <discovery>2011</discovery>
+    <eccentricity errorplus="0.150000" errorminus="-0.020000">0.020000</eccentricity>
+    <periastron errorplus="67.8000" errorminus="-292.2000">292.2000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2013</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 667 C d</name>
+    <source>http://exoplanet.eu/catalog/GJ_667_C_d/</source>
+    <mass errorplus="0.00566" errorminus="0.00535">0.01604</mass>
+    <period errorplus="0.81" errorminus="0.89">91.61</period>
+    <semimajoraxis errorplus="0.024" errorminus="0.03">0.276</semimajoraxis>
+    <eccentricity errorplus="0.2" errorminus="0.03">0.03</eccentricity>
+    <periastron errorplus="360.0" errorminus="360.0">40.11</periastron>
+    <periastrontime errorplus="1.0" errorminus="1.0">2454499.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2012</discovery>
+  </planet>
+  <planet>
+    <name>GJ 667 C e</name>
+    <source>http://exoplanet.eu/catalog/GJ_667_C_e/</source>
+    <mass></mass>
+    <period>62.24000000</period>
+    <semimajoraxis>0.213000</semimajoraxis>
+    <eccentricity errorplus="0.004" errorminus="0.02">0.02</eccentricity>
+    <periastron errorplus="360.0" errorminus="360.0">28.65</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2013</discovery>
+    <eccentricity errorplus="0.220000" errorminus="-0.020000">0.020000</eccentricity>
+    <periastron errorplus="331.4000" errorminus="-28.6000">28.6000</periastron>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2013</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 667 C f</name>
+    <source>http://exoplanet.eu/catalog/GJ_667_C_f/</source>
+    <mass></mass>
+    <period>39.02600000</period>
+    <semimajoraxis>0.156000</semimajoraxis>
+    <eccentricity errorplus="0.16" errorminus="0.03">0.03</eccentricity>
+    <periastron errorplus="360.0" errorminus="360.0">103.0</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2013</discovery>
+    <eccentricity errorplus="0.160000" errorminus="-0.030000">0.030000</eccentricity>
+    <periastron errorplus="256.9000" errorminus="-103.1000">103.1000</periastron>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2013</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 667 C g</name>
+    <source>http://exoplanet.eu/catalog/GJ_667_C_g/</source>
+    <mass></mass>
+    <period>256.20000000</period>
+    <semimajoraxis>0.549000</semimajoraxis>
+    <eccentricity errorplus="0.41" errorminus="0.08">0.08</eccentricity>
+    <periastron errorplus="360.0" errorminus="360.0">51.56</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2013</discovery>
+    <eccentricity errorplus="0.410000" errorminus="-0.080000">0.080000</eccentricity>
+    <periastron errorplus="308.4000" errorminus="-51.6000">51.6000</periastron>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2013</discoveryyear>
+  </planet>
+</star>
