@@ -1,0 +1,25 @@
+<star>
+  <name>Qatar-5</name>
+  <mass errorplus="0.056" errorminus="0.056">1.128</mass>
+  <radius errorplus="0.051" errorminus="0.051">1.076</radius>
+  <magV></magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="49.0" errorminus="49.0">5747.0</temperature>
+  <metallicity errorplus="0.08" errorminus="0.08">0.377</metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="4.4" errorminus="4.4">5.47</age>
+  <planet>
+    <name>Qatar-5 b</name>
+    <source>http://exoplanet.eu/catalog/Qatar-5_b/</source>
+    <mass errorplus="0.18" errorminus="0.18">4.32</mass>
+    <period errorplus="9.9e-06" errorminus="9.9e-06">2.8792319</period>
+    <semimajoraxis errorplus="0.0067" errorminus="0.0067">0.04127</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/09/18</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
