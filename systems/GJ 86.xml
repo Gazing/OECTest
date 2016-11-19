@@ -1,0 +1,37 @@
+<star>
+  <name>GJ 86</name>
+  <mass errorplus="" errorminus="">0.8</mass>
+  <radius errorplus="0.005" errorminus="0.005">0.855</radius>
+  <magV>6.17</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus="">5350.0</temperature>
+  <metallicity errorplus="" errorminus="">-0.24</metallicity>
+  <spectraltype>K1V</spectraltype>
+  <age errorplus="" errorminus="">2.03</age>
+  <planet>
+    <name>GJ 86 A b</name>
+    <source>http://exoplanet.eu/catalog/GJ_86_A_b/</source>
+    <mass errorplus="" errorminus="">4.01</mass>
+    <period errorplus="0.04" errorminus="0.04">15.766</period>
+    <semimajoraxis errorplus="" errorminus="">0.11</semimajoraxis>
+    <eccentricity errorplus="0.004" errorminus="0.004">0.046</eccentricity>
+    <periastron errorplus="" errorminus="">266.0</periastron>
+    <periastrontime errorplus="0.2" errorminus="0.2">2451146.7</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2000</discovery>
+  </planet>
+  <planet>
+    <name>GJ 86 b</name>
+    <mass></mass>
+    <period>15.76491000</period>
+    <semimajoraxis>0.113000</semimajoraxis>
+    <eccentricity errorplus="0.007200" errorminus="-0.007200">0.041600</eccentricity>
+    <periastron errorplus="16.0000" errorminus="-16.0000">269.0000</periastron>
+    <periastrontime errorplus="0.590000" errorminus="-0.590000">2451903.360000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-05-14</lastupdate>
+    <discoveryyear>2000</discoveryyear>
+  </planet>
+</star>
