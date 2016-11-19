@@ -1,0 +1,30 @@
+<star>
+  <name>GJ 3470</name>
+  <mass errorplus="0.047" errorminus="0.047">0.539</mass>
+  <radius errorplus="0.012" errorminus="0.012">0.55</radius>
+  <magV>12.27</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="100.0" errorminus="100.0">3600.0</temperature>
+  <metallicity errorplus="0.1" errorminus="0.1">0.2</metallicity>
+  <spectraltype>M1.5</spectraltype>
+  <age errorplus="0.7" errorminus="0.7">1.0</age>
+  <planet>
+    <name>GJ 3470 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_3470_b/</source>
+    <mass>0.04300</mass>
+    <period>3.33664870</period>
+    <semimajoraxis>0.031000</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>13/11/05</lastUpdate>
+    <discovery>2012</discovery>
+    <eccentricity errorplus="0.016000" errorminus="-0.012000">0.017000</eccentricity>
+    <periastron errorplus="0.9600" errorminus="-1.2000">1.7000</periastron>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-07-23</lastupdate>
+    <discoveryyear>2012</discoveryyear>
+  </planet>
+</star>
