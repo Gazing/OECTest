@@ -1,0 +1,24 @@
+<star>
+  <name>4 Uma</name>
+  <mass errorplus="0.15" errorminus="0.15">1.234</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>5.79</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="70.0" errorminus="70.0">4415.0</temperature>
+  <metallicity errorplus="0.04" errorminus="0.04">-0.25</metallicity>
+  <spectraltype>K1III</spectraltype>
+  <age errorplus="2.0" errorminus="2.0">4.604</age>
+  <planet>
+    <name>4 Uma b</name>
+    <mass errorplus="1.6" errorminus="1.6">7.1</mass>
+    <period errorplus="1.96" errorminus="1.96">269.3</period>
+    <semimajoraxis errorplus="0.04" errorminus="0.04">0.87</semimajoraxis>
+    <eccentricity errorplus="0.024" errorminus="0.024">0.432</eccentricity>
+    <periastron errorplus="4.42" errorminus="4.42">23.81</periastron>
+    <periastrontime errorplus="4.31" errorminus="4.31">2452987.3936</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>14/08/27</lastUpdate>
+    <discovery>2007</discovery>
+  </planet>
+</star>
