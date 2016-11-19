@@ -1,0 +1,24 @@
+<star>
+  <name>2M  1938+46</name>
+  <mass errorplus="0.03" errorminus="0.03">0.6</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV></magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>sdB+M</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>2M 1938+46 b</name>
+    <mass errorplus="0.1" errorminus="0.1">1.9</mass>
+    <period errorplus="2.0" errorminus="2.0">416.0</period>
+    <semimajoraxis errorplus="0.02" errorminus="0.02">0.92</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/05/06</lastUpdate>
+    <discovery>2015</discovery>
+  </planet>
+</star>
