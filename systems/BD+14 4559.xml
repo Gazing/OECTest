@@ -1,39 +1,55 @@
 <system>
-	<name>BD+14 4559</name>
-	<name>BD14 4559</name>
-	<rightascension>21 13 35.99143</rightascension>
-	<declination>+14 41 21.7994</declination>
-	<distance errorminus="2.90" errorplus="2.90">48.36</distance>
-	<star>
-		<name>BD+14 4559</name>
-		<name>BD14 4559</name>
-		<name>HIP 104780</name>
-		<name>TYC 1117-615-1</name>
-		<name>2MASS J21133598+1441218</name>
-		<magB errorminus="0.06" errorplus="0.06">10.66</magB>
-		<magV errorminus="0.03" errorplus="0.03">9.66</magV>
-		<magR>9.1</magR>
-		<magI>8.6</magI>
-		<magJ errorminus="0.029" errorplus="0.029">7.882</magJ>
-		<magH errorminus="0.018" errorplus="0.018">7.455</magH>
-		<magK errorminus="0.023" errorplus="0.023">7.336</magK>
-		<mass errorminus="0.15" errorplus="0.15">0.86</mass>
-		<temperature errorminus="20" errorplus="20">5008</temperature>
-		<metallicity errorminus="0.07" errorplus="0.07">0.10</metallicity>
-		<spectraltype>K2V</spectraltype>
-		<planet>
-			<name>BD+14 4559 b</name>
-			<name>BD14 4559 b</name>
-			<list>Confirmed planets</list>
-			<mass type="msini">1.47</mass>
-			<period errorminus="0.99" errorplus="0.99">268.94</period>
-			<semimajoraxis>0.777</semimajoraxis>
-			<eccentricity errorminus="0.03" errorplus="0.03">0.29</eccentricity>
-			<periastron errorminus="7.87" errorplus="7.87">87.64</periastron>
-			<periastrontime errorminus="6.35" errorplus="6.35">245294.21</periastrontime>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/26</lastupdate>
-			<discoveryyear>2009</discoveryyear>
-		</planet>
-	</star>
+  <name>BD+14 4559</name>
+  <name>BD14 4559</name>
+  <rightascension>21 13 35.99143</rightascension>
+  <declination>+14 41 21.7994</declination>
+  <distance errorminus="2.90" errorplus="2.90">48.36</distance>
+  <mass errorplus="0.15" errorminus="0.15">0.86</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>9.63</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="20.0" errorminus="20.0">5008.0</temperature>
+  <metallicity errorplus="0.07" errorminus="0.07">0.1</metallicity>
+  <spectraltype>K2V</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <star>
+    <name>BD+14 4559</name>
+    <name>BD14 4559</name>
+    <name>HIP 104780</name>
+    <name>TYC 1117-615-1</name>
+    <name>2MASS J21133598+1441218</name>
+    <magB errorminus="0.06" errorplus="0.06">10.66</magB>
+    <magV errorminus="0.03" errorplus="0.03">9.66</magV>
+    <magR>9.1</magR>
+    <magI>8.6</magI>
+    <magJ errorminus="0.029" errorplus="0.029">7.882</magJ>
+    <magH errorminus="0.018" errorplus="0.018">7.455</magH>
+    <magK errorminus="0.023" errorplus="0.023">7.336</magK>
+    <mass errorminus="0.15" errorplus="0.15">0.86</mass>
+    <temperature errorminus="20" errorplus="20">5008</temperature>
+    <metallicity errorminus="0.07" errorplus="0.07">0.10</metallicity>
+    <spectraltype>K2V</spectraltype>
+    <planet>
+      <name>BD+14 4559 b</name>
+      <name>BD14 4559 b</name>
+      <list>Confirmed planets</list>
+      <mass></mass>
+      <period>268.94000000</period>
+      <semimajoraxis>0.777000</semimajoraxis>
+      <eccentricity errorplus="0.03" errorminus="0.03">0.29</eccentricity>
+      <periastron errorplus="7.87" errorminus="7.87">87.64</periastron>
+      <periastrontime errorplus="6.35" errorminus="6.35">2453294.21</periastrontime>
+      <discoverymethod>Radial Velocity</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoveryyear>2009</discoveryyear>
+      <source>http://exoplanet.eu/catalog/BD+14_4559_b/</source>
+      <detectionMethod>RV</detectionMethod>
+      <lastUpdate>16/02/23</lastUpdate>
+      <discovery>2009</discovery>
+      <eccentricity errorplus="0.030000" errorminus="-0.030000">0.290000</eccentricity>
+      <periastron errorplus="7.8700" errorminus="-7.8700">87.6400</periastron>
+      <periastrontime errorplus="6.350000" errorminus="-6.350000">2453293.710000</periastrontime>
+    </planet>
+  </star>
 </system>
