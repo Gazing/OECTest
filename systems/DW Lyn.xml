@@ -1,0 +1,25 @@
+<star>
+  <name>DW Lyn</name>
+  <mass errorplus="" errorminus=""></mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV></magV>
+  <magH>15.45</magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>SdB D</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>DW Lyn b</name>
+    <source>http://exoplanet.eu/catalog/DW_Lyn_b/</source>
+    <mass errorplus="1.44" errorminus="1.44">5.58</mass>
+    <period errorplus="" errorminus=""></period>
+    <semimajoraxis errorplus="0.05" errorminus="0.05">1148.0</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/19</lastUpdate>
+    <discovery>2013</discovery>
+  </planet>
+</star>
