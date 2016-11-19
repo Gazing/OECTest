@@ -1,0 +1,107 @@
+<star>
+  <name>55 Cnc</name>
+  <mass errorplus="0.015" errorminus="0.015">0.905</mass>
+  <radius errorplus="0.01" errorminus="0.01">0.943</radius>
+  <magV>5.95</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="24.0" errorminus="24.0">5196.0</temperature>
+  <metallicity errorplus="0.04" errorminus="0.04">0.31</metallicity>
+  <spectraltype>K0IV-V</spectraltype>
+  <age errorplus="2.5" errorminus="2.5">10.2</age>
+  <planet>
+    <name>55 Cnc b</name>
+    <source>http://exoplanet.eu/catalog/55_Cnc_b/</source>
+    <mass>0.83060</mass>
+    <period>14.65152000</period>
+    <semimajoraxis>0.115227</semimajoraxis>
+    <eccentricity errorplus="0.008" errorminus="0.008">0.0159</eccentricity>
+    <periastron errorplus="" errorminus="">164.0</periastron>
+    <periastrontime errorplus="2.2" errorminus="2.2">2453035.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>12/08/29</lastUpdate>
+    <discovery>1996</discovery>
+    <eccentricity errorplus="0.003200" errorminus="-0.003200">0.003400</eccentricity>
+    <periastron errorplus="53.0000" errorminus="-53.0000">98.0000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-10-29</lastupdate>
+    <discoveryyear>1997</discoveryyear>
+  </planet>
+  <planet>
+    <name>55 Cnc c</name>
+    <source>http://exoplanet.eu/catalog/55_Cnc_c/</source>
+    <mass>0.17140</mass>
+    <period>44.41750000</period>
+    <semimajoraxis>0.241376</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.053</eccentricity>
+    <periastron errorplus="11.0" errorminus="11.0">57.4</periastron>
+    <periastrontime errorplus="3.3" errorminus="3.3">2449989.3385</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>11/06/07</lastUpdate>
+    <discovery>2002</discovery>
+    <eccentricity errorplus="0.031000" errorminus="-0.031000">0.020000</eccentricity>
+    <periastron errorplus="84.0000" errorminus="-84.0000">51.0000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-10-29</lastupdate>
+    <discoveryyear>2004</discoveryyear>
+  </planet>
+  <planet>
+    <name>55 Cnc d</name>
+    <source>http://exoplanet.eu/catalog/55_Cnc_d/</source>
+    <mass>3.87800</mass>
+    <period>4825.00000000</period>
+    <semimajoraxis>5.503000</semimajoraxis>
+    <eccentricity errorplus="0.03" errorminus="0.03">0.025</eccentricity>
+    <periastron errorplus="32.0" errorminus="32.0">181.3</periastron>
+    <periastrontime errorplus="230.0" errorminus="230.0">2452500.6</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>11/06/07</lastUpdate>
+    <discovery>2002</discovery>
+    <eccentricity errorplus="0.013000" errorminus="-0.013000">0.019000</eccentricity>
+    <periastron errorplus="31.0000" errorminus="-31.0000">44.0000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-10-29</lastupdate>
+    <discoveryyear>2002</discoveryyear>
+  </planet>
+  <planet>
+    <name>55 Cnc e</name>
+    <source>http://exoplanet.eu/catalog/55_Cnc_e/</source>
+    <mass>0.02542</mass>
+    <period>0.73653900</period>
+    <semimajoraxis>0.015440</semimajoraxis>
+    <eccentricity errorplus="nan" errorminus="inf">0.06</eccentricity>
+    <periastron errorplus="130.0" errorminus="130.0">170.0</periastron>
+    <periastrontime errorplus="0.0001" errorminus="0.0001">2449999.83643</periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>15/12/01</lastUpdate>
+    <discovery>2004</discovery>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-07-07</lastupdate>
+    <discoveryyear>2004</discoveryyear>
+  </planet>
+  <planet>
+    <name>55 Cnc f</name>
+    <source>http://exoplanet.eu/catalog/55_Cnc_f/</source>
+    <mass>0.14100</mass>
+    <period>262.00000000</period>
+    <semimajoraxis>0.788000</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.0002</eccentricity>
+    <periastron errorplus="60.0" errorminus="60.0">205.0</periastron>
+    <periastrontime errorplus="1.1" errorminus="1.1">2450080.9108</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>11/06/07</lastUpdate>
+    <discovery>2007</discovery>
+    <eccentricity errorplus="0.075000" errorminus="-0.075000">0.305000</eccentricity>
+    <periastron errorplus="15.0000" errorminus="-15.0000">166.0000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-10-29</lastupdate>
+    <discoveryyear>2008</discoveryyear>
+  </planet>
+</star>
