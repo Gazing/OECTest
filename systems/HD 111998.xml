@@ -1,0 +1,15 @@
+<star>
+  <name>HD 111998</name>
+  <planet>
+    <name>HD 111998 b</name>
+    <mass></mass>
+    <period>825.90000000</period>
+    <semimajoraxis>1.820000</semimajoraxis>
+    <eccentricity errorplus="0.040000" errorminus="-0.040000">0.030000</eccentricity>
+    <periastron errorplus="77.7000" errorminus="-77.7000">-87.3000</periastron>
+    <periastrontime errorplus="177.300000" errorminus="-177.300000">2455490.200000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-09-08</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
