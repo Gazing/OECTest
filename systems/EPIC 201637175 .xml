@@ -1,0 +1,25 @@
+<star>
+  <name>EPIC 201637175 </name>
+  <mass errorplus="0.07" errorminus="0.07">0.6</mass>
+  <radius errorplus="0.06" errorminus="0.06">0.57</radius>
+  <magV>17.0</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="100.0" errorminus="100.0">3830.0</temperature>
+  <metallicity errorplus="0.08" errorminus="0.08">0.03</metallicity>
+  <spectraltype>M0V</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>EPIC 201637175 b</name>
+    <source>http://exoplanet.eu/catalog/EPIC_201637175_b/</source>
+    <mass errorplus="0.0" errorminus="1.4">1.4</mass>
+    <period errorplus="1e-06" errorminus="1e-06">0.381071</period>
+    <semimajoraxis errorplus="0.0008" errorminus="0.0008">0.0088</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>15/07/27</lastUpdate>
+    <discovery>2015</discovery>
+  </planet>
+</star>
