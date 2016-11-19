@@ -1,0 +1,15 @@
+<star>
+  <name>Kepler-408</name>
+  <planet>
+    <name>Kepler-408 b</name>
+    <mass></mass>
+    <period>2.46502000</period>
+    <semimajoraxis></semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Transit</discoverymethod>
+    <lastupdate>2016-10-13</lastupdate>
+    <discoveryyear>2014</discoveryyear>
+  </planet>
+</star>
