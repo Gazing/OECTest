@@ -1,40 +1,57 @@
 <system>
-	<name>HAT-P-22</name>
-	<rightascension>10 22 44</rightascension>
-	<declination>+50 07 42</declination>
-	<distance>82</distance>
-	<star>
-		<mass>0.916</mass>
-		<radius>1.04</radius>
-		<magV errorminus="0.02" errorplus="0.02">9.76</magV>
-		<magB errorminus="0.04" errorplus="0.04">10.62</magB>
-		<magR errorminus="0.03" errorplus="0.03">9.44</magR>
-		<magJ errorminus="0.023" errorplus="0.023">8.293</magJ>
-		<magH errorminus="0.029" errorplus="0.029">7.935</magH>
-		<magK errorminus="0.021" errorplus="0.021">7.837</magK>
-		<metallicity>0.24</metallicity>
-		<spectraltype>G5</spectraltype>
-		<planet>
-			<name>HAT-P-22 b</name>
-			<name>HD 233731 b</name>
-			<name>TYC 3441-00925-1 b</name>
-			<name>2MASS J10224361+5007420 b</name>
-			<name>BD+50 1735 b</name>
-			<list>Confirmed planets</list>
-			<mass>2.147</mass>
-			<radius>1.08</radius>
-			<period>3.21222</period>
-			<semimajoraxis>0.0414</semimajoraxis>
-			<eccentricity>0.016</eccentricity>
-			<inclination>86.9</inclination>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature>1171.7</temperature>
-			<transittime errorminus="0.00025" errorplus="0.00025" unit="BJD">2454930.22001</transittime>
-			<istransiting>1</istransiting>
-		</planet>
-		<name>HAT-P-22</name>
-		<temperature>5302.0</temperature>
-	</star>
+  <name>HAT-P-22</name>
+  <rightascension>10 22 44</rightascension>
+  <declination>+50 07 42</declination>
+  <distance>82</distance>
+  <mass errorplus="0.035" errorminus="0.035">0.916</mass>
+  <radius errorplus="0.044" errorminus="0.044">1.04</radius>
+  <magV>9.73</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="80.0" errorminus="80.0">5302.0</temperature>
+  <metallicity errorplus="0.08" errorminus="0.08">0.24</metallicity>
+  <spectraltype>G5</spectraltype>
+  <age errorplus="2.6" errorminus="2.6">12.4</age>
+  <star>
+    <name>HAT-P-22</name>
+    <mass>0.916</mass>
+    <radius>1.04</radius>
+    <magV errorminus="0.02" errorplus="0.02">9.76</magV>
+    <magB errorminus="0.04" errorplus="0.04">10.62</magB>
+    <magR errorminus="0.03" errorplus="0.03">9.44</magR>
+    <magJ errorminus="0.023" errorplus="0.023">8.293</magJ>
+    <magH errorminus="0.029" errorplus="0.029">7.935</magH>
+    <magK errorminus="0.021" errorplus="0.021">7.837</magK>
+    <metallicity>0.24</metallicity>
+    <spectraltype>G5</spectraltype>
+    <temperature>5302.0</temperature>
+    <planet>
+      <name>HAT-P-22 b</name>
+      <name>HD 233731 b</name>
+      <name>TYC 3441-00925-1 b</name>
+      <name>2MASS J10224361+5007420 b</name>
+      <name>BD+50 1735 b</name>
+      <list>Confirmed planets</list>
+      <mass>2.14700</mass>
+      <radius>1.08</radius>
+      <period>3.21222000</period>
+      <semimajoraxis>0.041400</semimajoraxis>
+      <eccentricity errorplus="0.009" errorminus="0.009">0.016</eccentricity>
+      <inclination>86.9</inclination>
+      <discoverymethod>Transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoveryyear>2010</discoveryyear>
+      <temperature>1171.7</temperature>
+      <transittime errorminus="0.00025" errorplus="0.00025" unit="BJD">2454930.22001</transittime>
+      <istransiting>1</istransiting>
+      <source>http://exoplanet.eu/catalog/HAT-P-22_b/</source>
+      <periastron errorplus="66.0" errorminus="66.0">156.0</periastron>
+      <periastrontime errorplus="" errorminus=""></periastrontime>
+      <detectionMethod>IDK</detectionMethod>
+      <lastUpdate>15/08/20</lastUpdate>
+      <discovery>2010</discovery>
+      <eccentricity errorplus="0.009000" errorminus="-0.009000">0.016000</eccentricity>
+      <periastron errorplus="66.0000" errorminus="-66.0000">156.0000</periastron>
+    </planet>
+  </star>
 </system>
