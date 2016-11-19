@@ -39,6 +39,7 @@
       <detectionMethod>IDK</detectionMethod>
       <lastUpdate>14/10/29</lastUpdate>
       <discovery>2012</discovery>
+      <eccentricity errorplus="" errorminus=""></eccentricity>
     </planet>
   </star>
 </system>
