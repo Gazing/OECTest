@@ -1,0 +1,25 @@
+<star>
+  <name>EPIC 211990866</name>
+  <mass errorplus="0.09" errorminus="0.09">1.18</mass>
+  <radius errorplus="0.05" errorminus="0.05">1.19</radius>
+  <magV></magV>
+  <magH>9.46</magH>
+  <magJ></magJ>
+  <temperature errorplus="90.0" errorminus="90.0">6120.0</temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="" errorminus="">0.8</age>
+  <planet>
+    <name>EPIC 211990866 b</name>
+    <source>http://exoplanet.eu/catalog/EPIC_211990866_b/</source>
+    <mass errorplus="" errorminus=""></mass>
+    <period errorplus="1.2e-05" errorminus="1.3e-05">1.673916</period>
+    <semimajoraxis errorplus="" errorminus=""></semimajoraxis>
+    <eccentricity errorplus="0.19" errorminus="0.12">0.24</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/09/07</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
