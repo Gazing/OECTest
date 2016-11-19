@@ -1,0 +1,69 @@
+<star>
+  <name>GJ 581</name>
+  <mass errorplus="0.02" errorminus="0.02">0.31</mass>
+  <radius errorplus="0.01" errorminus="0.01">0.3</radius>
+  <magV>10.55</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="56.0" errorminus="56.0">3498.0</temperature>
+  <metallicity errorplus="" errorminus="">-0.135</metallicity>
+  <spectraltype>M2.5V</spectraltype>
+  <age errorplus="1.0" errorminus="1.0">8.0</age>
+  <planet>
+    <name>GJ 581 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_581_b/</source>
+    <mass></mass>
+    <period>5.36860000</period>
+    <semimajoraxis>0.040610</semimajoraxis>
+    <eccentricity errorplus="0.014" errorminus="0.014">0.031</eccentricity>
+    <periastron errorplus="26.0" errorminus="26.0">251.0</periastron>
+    <periastrontime errorplus="0.39" errorminus="0.39">2454753.95</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2005</discovery>
+    <eccentricity errorplus="0.030000" errorminus="-0.030000">0.000000</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="0.010000" errorminus="-0.010000">2454751.760000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-07-09</lastupdate>
+    <discoveryyear>2005</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 581 c</name>
+    <source>http://exoplanet.eu/catalog/GJ_581_c/</source>
+    <mass></mass>
+    <period>12.91400000</period>
+    <semimajoraxis>0.072100</semimajoraxis>
+    <eccentricity errorplus="0.06" errorminus="0.06">0.07</eccentricity>
+    <periastron errorplus="44.0" errorminus="44.0">235.0</periastron>
+    <periastrontime errorplus="1.6" errorminus="1.6">2454763.0</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2007</discovery>
+    <eccentricity errorplus="0.060000" errorminus="-0.060000">0.000000</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="0.100000" errorminus="-0.100000">2454759.200000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-07-09</lastupdate>
+    <discoveryyear>2005</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 581 e</name>
+    <source>http://exoplanet.eu/catalog/GJ_581_e/</source>
+    <mass></mass>
+    <period>3.14900000</period>
+    <semimajoraxis>0.028150</semimajoraxis>
+    <eccentricity errorplus="0.09" errorminus="0.09">0.32</eccentricity>
+    <periastron errorplus="17.0" errorminus="17.0">236.0</periastron>
+    <periastrontime errorplus="0.13" errorminus="0.13">2454750.31</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/23</lastUpdate>
+    <discovery>2009</discovery>
+    <eccentricity errorplus="0.060000" errorminus="-0.060000">0.000000</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="0.050000" errorminus="-0.050000">2454752.330000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-07-09</lastupdate>
+    <discoveryyear>2005</discoveryyear>
+  </planet>
+</star>
