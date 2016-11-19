@@ -1,0 +1,25 @@
+<star>
+  <name>GJ 163</name>
+  <mass errorplus="" errorminus="">0.4</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>11.8</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>M3.5</spectraltype>
+  <age errorplus="7.0" errorminus="2.0">3.0</age>
+  <planet>
+    <name>GJ 163 c</name>
+    <source>http://exoplanet.eu/catalog/GJ_163_c/</source>
+    <mass errorplus="0.0028" errorminus="0.0028">0.02285</mass>
+    <period errorplus="0.0235" errorminus="0.0235">25.645</period>
+    <semimajoraxis errorplus="0.0001" errorminus="0.0001">0.1254</semimajoraxis>
+    <eccentricity errorplus="0.086" errorminus="0.086">0.094</eccentricity>
+    <periastron errorplus="80.0" errorminus="80.0">235.4</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/09/12</lastUpdate>
+    <discovery>2012</discovery>
+  </planet>
+</star>
