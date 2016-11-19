@@ -1,0 +1,28 @@
+<system>
+  <name>Qatar-4</name>
+  <star>
+    <name>Qatar-4</name>
+    <mass errorplus="0.048" errorminus="0.048">0.954</mass>
+    <radius errorplus="0.037" errorminus="0.037">1.115</radius>
+    <magV></magV>
+    <magH></magH>
+    <magJ></magJ>
+    <temperature errorplus="50.0" errorminus="50.0">5219.0</temperature>
+    <metallicity errorplus="0.081" errorminus="0.081">0.166</metallicity>
+    <spectraltype></spectraltype>
+    <age errorplus="0.95" errorminus="0.95">12.9</age>
+    <planet>
+      <name>Qatar-4 b</name>
+      <source>http://exoplanet.eu/catalog/Qatar-4_b/</source>
+      <mass errorplus="0.47" errorminus="0.47">5.85</mass>
+      <period errorplus="9.9e-06" errorminus="9.9e-06">1.8053949</period>
+      <semimajoraxis errorplus="0.00048" errorminus="0.00048">0.02861</semimajoraxis>
+      <eccentricity errorplus="" errorminus=""></eccentricity>
+      <periastron errorplus="" errorminus=""></periastron>
+      <periastrontime errorplus="" errorminus=""></periastrontime>
+      <detectionMethod>IDK</detectionMethod>
+      <lastUpdate>16/09/18</lastUpdate>
+      <discovery>2016</discovery>
+    </planet>
+  </star>
+</system>
