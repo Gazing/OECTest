@@ -1,0 +1,44 @@
+<star>
+  <name>GJ 317</name>
+  <mass errorplus="0.05" errorminus="0.05">0.42</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>12.0</magV>
+  <magH>6.41</magH>
+  <magJ>5.9</magJ>
+  <temperature errorplus="50.0" errorminus="50.0">3510.0</temperature>
+  <metallicity errorplus="0.2" errorminus="0.2">0.36</metallicity>
+  <spectraltype>M3.5</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>GJ 317 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_317_b/</source>
+    <mass>2.50000</mass>
+    <period>692.00000000</period>
+    <semimajoraxis>1.150000</semimajoraxis>
+    <eccentricity errorplus="0.05" errorminus="0.05">0.11</eccentricity>
+    <periastron errorplus="10.0" errorminus="10.0">340.0</periastron>
+    <periastrontime errorplus="35.0" errorminus="35.0">2451656.7</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>15/08/01</lastUpdate>
+    <discovery>2007</discovery>
+    <eccentricity errorplus="0.050000" errorminus="-0.050000">0.110000</eccentricity>
+    <periastron errorplus="10.0000" errorminus="-10.0000">342.0000</periastron>
+    <periastrontime errorplus="35.000000" errorminus="-35.000000">2451656.700000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-08-27</lastupdate>
+    <discoveryyear>2007</discoveryyear>
+  </planet>
+  <planet>
+    <name>GJ 317 c</name>
+    <source>http://exoplanet.eu/catalog/GJ_317_c/</source>
+    <mass errorplus="0.0" errorminus="0.0">2.0</mass>
+    <period errorplus="inf" errorminus="nan">7300.0</period>
+    <semimajoraxis errorplus="10.0" errorminus="20.0">30.0</semimajoraxis>
+    <eccentricity errorplus="0.2" errorminus="0.2">0.81</eccentricity>
+    <periastron errorplus="" errorminus="">210.0</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>15/10/16</lastUpdate>
+    <discovery>2007</discovery>
+  </planet>
+</star>
