@@ -1,0 +1,31 @@
+<star>
+  <name>GJ 3634</name>
+  <mass errorplus="0.05" errorminus="0.05">0.45</mass>
+  <radius errorplus="0.03" errorminus="0.03">0.43</radius>
+  <magV>11.95</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>M2.5</spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>GJ 3634 b</name>
+    <source>http://exoplanet.eu/catalog/GJ_3634_b/</source>
+    <mass>0.02600</mass>
+    <period>2.64561000</period>
+    <semimajoraxis>0.028700</semimajoraxis>
+    <eccentricity errorplus="0.057" errorminus="0.057">0.08</eccentricity>
+    <periastron errorplus="130.0" errorminus="130.0">84.0</periastron>
+    <periastrontime errorplus="0.53" errorminus="0.53">2454917.04</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>12/09/10</lastUpdate>
+    <discovery>2011</discovery>
+    <eccentricity errorplus="0.094000" errorminus="-0.057000">0.080000</eccentricity>
+    <periastron errorplus="52.0000" errorminus="-130.0000">84.0000</periastron>
+    <periastrontime errorplus="0.820000" errorminus="-0.520000">2454917.040000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2014-08-21</lastupdate>
+    <discoveryyear>2011</discoveryyear>
+  </planet>
+</star>
