@@ -1,0 +1,15 @@
+<star>
+  <name>HD 68402</name>
+  <planet>
+    <name>HD 68402 b</name>
+    <mass></mass>
+    <period>1103.00000000</period>
+    <semimajoraxis>2.180000</semimajoraxis>
+    <eccentricity errorplus="0.060000" errorminus="-0.060000">0.030000</eccentricity>
+    <periastron errorplus="131.7800" errorminus="-131.7800">17.1900</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-11-10</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
