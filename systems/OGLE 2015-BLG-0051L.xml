@@ -1,0 +1,15 @@
+<star>
+  <name>OGLE 2015-BLG-0051L</name>
+  <planet>
+    <name>OGLE 2015-BLG-0051L b</name>
+    <mass>0.72000</mass>
+    <period></period>
+    <semimajoraxis>0.730000</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Microlensing</discoverymethod>
+    <lastupdate>2016-10-06</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
