@@ -1,0 +1,15 @@
+<star>
+  <name>K2-95</name>
+  <planet>
+    <name>K2-95 b</name>
+    <mass>0.03458</mass>
+    <period>10.13389000</period>
+    <semimajoraxis>0.065300</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Transit</discoverymethod>
+    <lastupdate>2016-09-08</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
