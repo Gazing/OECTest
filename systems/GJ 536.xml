@@ -1,0 +1,15 @@
+<star>
+  <name>GJ 536</name>
+  <planet>
+    <name>GJ 536 b</name>
+    <mass></mass>
+    <period>8.70760000</period>
+    <semimajoraxis>0.066610</semimajoraxis>
+    <eccentricity errorplus="0.090000" errorminus="-0.060000">0.080000</eccentricity>
+    <periastron errorplus="42.5000" errorminus="-50.6000">288.7000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-11-17</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
