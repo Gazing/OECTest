@@ -1,44 +1,48 @@
 <system>
-	<name>HD 60532</name>
-	<rightascension>07 34 03</rightascension>
-	<declination>-22 17 46</declination>
-	<distance>25.7</distance>
-	<star>
-		<mass>1.44</mass>
-		<magV>4.45</magV>
-		<magB>4.94</magB>
-		<magJ errorminus="0.270" errorplus="0.270">3.703</magJ>
-		<magH errorminus="0.240" errorplus="0.240">3.318</magH>
-		<magK errorminus="0.286" errorplus="0.286">3.355</magK>
-		<metallicity>-0.26</metallicity>
-		<spectraltype>F6IV-V</spectraltype>
-		<planet>
-			<name>HD 60532 b</name>
-			<list>Confirmed planets</list>
-			<mass>3.15</mass>
-			<period>201.83</period>
-			<semimajoraxis>0.77</semimajoraxis>
-			<eccentricity>0.278</eccentricity>
-			<inclination>20</inclination>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
-			<discoveryyear>2008</discoveryyear>
-			<temperature>497.4</temperature>
-		</planet>
-		<planet>
-			<name>HD 60532 c</name>
-			<list>Confirmed planets</list>
-			<mass>7.46</mass>
-			<period>607.06</period>
-			<semimajoraxis>1.58</semimajoraxis>
-			<eccentricity>0.038</eccentricity>
-			<inclination>20</inclination>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
-			<discoveryyear>2008</discoveryyear>
-			<temperature>348.9</temperature>
-		</planet>
-		<name>HD 60532</name>
-		<temperature>6095.0</temperature>
-	</star>
+  <name>HD 60532</name>
+  <rightascension>07 34 03</rightascension>
+  <declination>-22 17 46</declination>
+  <distance>25.7</distance>
+  <star>
+    <name>HD 60532</name>
+    <mass>1.44</mass>
+    <magV>4.45</magV>
+    <magB>4.94</magB>
+    <magJ errorminus="0.270" errorplus="0.270">3.703</magJ>
+    <magH errorminus="0.240" errorplus="0.240">3.318</magH>
+    <magK errorminus="0.286" errorplus="0.286">3.355</magK>
+    <metallicity>-0.26</metallicity>
+    <spectraltype>F6IV-V</spectraltype>
+    <temperature>6095.0</temperature>
+    <planet>
+      <name>HD 60532 b</name>
+      <list>Confirmed planets</list>
+      <mass></mass>
+      <period>201.90000000</period>
+      <semimajoraxis>0.770000</semimajoraxis>
+      <eccentricity errorplus="0.020000" errorminus="-0.020000">0.260000</eccentricity>
+      <inclination>20</inclination>
+      <discoverymethod>Radial Velocity</discoverymethod>
+      <lastupdate>2016-09-08</lastupdate>
+      <discoveryyear>2008</discoveryyear>
+      <temperature>497.4</temperature>
+      <periastron errorplus="5.7000" errorminus="-5.7000">-3.7000</periastron>
+      <periastrontime errorplus="2.800000" errorminus="-2.800000">2454594.700000</periastrontime>
+    </planet>
+    <planet>
+      <name>HD 60532 c</name>
+      <list>Confirmed planets</list>
+      <mass></mass>
+      <period>600.10000000</period>
+      <semimajoraxis>1.600000</semimajoraxis>
+      <eccentricity errorplus="0.020000" errorminus="-0.020000">0.030000</eccentricity>
+      <inclination>20</inclination>
+      <discoverymethod>Radial Velocity</discoverymethod>
+      <lastupdate>2016-09-08</lastupdate>
+      <discoveryyear>2008</discoveryyear>
+      <temperature>348.9</temperature>
+      <periastron errorplus="58.7000" errorminus="-58.7000">179.8000</periastron>
+      <periastrontime errorplus="100.100000" errorminus="-100.100000">2454973.000000</periastrontime>
+    </planet>
+  </star>
 </system>
