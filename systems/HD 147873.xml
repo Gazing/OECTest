@@ -1,0 +1,27 @@
+<star>
+  <name>HD 147873</name>
+  <planet>
+    <name>HD 147873 b</name>
+    <mass></mass>
+    <period>116.59600000</period>
+    <semimajoraxis>0.522000</semimajoraxis>
+    <eccentricity errorplus="0.013000" errorminus="-0.013000">0.207000</eccentricity>
+    <periastron errorplus="2.8600" errorminus="-2.8600">80.2100</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-11-10</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+  <planet>
+    <name>HD 147873 c</name>
+    <mass></mass>
+    <period>491.54000000</period>
+    <semimajoraxis>1.360000</semimajoraxis>
+    <eccentricity errorplus="0.030000" errorminus="-0.030000">0.230000</eccentricity>
+    <periastron errorplus="11.4600" errorminus="-11.4600">41.8300</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-11-10</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
