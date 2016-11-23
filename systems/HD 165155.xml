@@ -1,0 +1,15 @@
+<star>
+  <name>HD 165155</name>
+  <planet>
+    <name>HD 165155 b</name>
+    <mass></mass>
+    <period>434.50000000</period>
+    <semimajoraxis>1.130000</semimajoraxis>
+    <eccentricity errorplus="0.030000" errorminus="-0.030000">0.200000</eccentricity>
+    <periastron errorplus="11.4600" errorminus="-11.4600">211.9900</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-11-10</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
