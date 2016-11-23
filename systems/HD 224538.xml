@@ -1,0 +1,15 @@
+<star>
+  <name>HD 224538</name>
+  <planet>
+    <name>HD 224538 b</name>
+    <mass></mass>
+    <period>1189.10000000</period>
+    <semimajoraxis>2.280000</semimajoraxis>
+    <eccentricity errorplus="0.022000" errorminus="-0.022000">0.464000</eccentricity>
+    <periastron errorplus="1.7200" errorminus="-1.7200">22.9200</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-11-10</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
