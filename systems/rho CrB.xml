@@ -1,0 +1,27 @@
+<star>
+  <name>rho CrB</name>
+  <planet>
+    <name>rho CrB b</name>
+    <mass></mass>
+    <period>39.84580000</period>
+    <semimajoraxis>0.219600</semimajoraxis>
+    <eccentricity errorplus="0.004000" errorminus="-0.003900">0.037300</eccentricity>
+    <periastron errorplus="5.9000" errorminus="-5.8000">270.6000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-10-27</lastupdate>
+    <discoveryyear>1997</discoveryyear>
+  </planet>
+  <planet>
+    <name>rho CrB c</name>
+    <mass></mass>
+    <period>102.54000000</period>
+    <semimajoraxis>0.412300</semimajoraxis>
+    <eccentricity errorplus="0.061000" errorminus="-0.037000">0.052000</eccentricity>
+    <periastron errorplus="110.0000" errorminus="-140.0000">190.0000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-10-27</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
