@@ -1,0 +1,15 @@
+<star>
+  <name>HD 9174</name>
+  <planet>
+    <name>HD 9174 b</name>
+    <mass></mass>
+    <period>1179.00000000</period>
+    <semimajoraxis>2.200000</semimajoraxis>
+    <eccentricity errorplus="0.050000" errorminus="-0.050000">0.120000</eccentricity>
+    <periastron errorplus="37.8200" errorminus="-37.8200">101.9900</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-11-10</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
