@@ -1,0 +1,15 @@
+<star>
+  <name>K2-99</name>
+  <planet>
+    <name>K2-99 b</name>
+    <mass>0.97000</mass>
+    <period>18.24900000</period>
+    <semimajoraxis>0.159000</semimajoraxis>
+    <eccentricity errorplus="0.040000" errorminus="-0.040000">0.190000</eccentricity>
+    <periastron errorplus="8.0000" errorminus="-8.0000">8.0000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Transit</discoverymethod>
+    <lastupdate>2016-10-06</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
