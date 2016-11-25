@@ -1,0 +1,15 @@
+<star>
+  <name>K2-77</name>
+  <planet>
+    <name>K2-77 b</name>
+    <mass>1.90000</mass>
+    <period>8.19979600</period>
+    <semimajoraxis></semimajoraxis>
+    <eccentricity errorplus="0.220000" errorminus="-0.090000">0.140000</eccentricity>
+    <periastron errorplus="106.0000" errorminus="-114.0000">1.0000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Transit</discoverymethod>
+    <lastupdate>2016-09-29</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
