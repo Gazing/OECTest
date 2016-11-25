@@ -1,0 +1,15 @@
+<star>
+  <name>HATS-18</name>
+  <planet>
+    <name>HATS-18 b</name>
+    <mass>1.98000</mass>
+    <period>0.83784340</period>
+    <semimajoraxis>0.017610</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.166000</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Transit</discoverymethod>
+    <lastupdate>2016-10-27</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
