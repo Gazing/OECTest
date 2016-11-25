@@ -1,0 +1,15 @@
+<star>
+  <name>OGLE-2012-BLG-0950L</name>
+  <planet>
+    <name>OGLE-2012-BLG-0950L b</name>
+    <mass>0.11012</mass>
+    <period></period>
+    <semimajoraxis>2.700000</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Microlensing</discoverymethod>
+    <lastupdate>2016-11-03</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
