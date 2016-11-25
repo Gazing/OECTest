@@ -1,0 +1,15 @@
+<star>
+  <name>HD 42618</name>
+  <planet>
+    <name>HD 42618 b</name>
+    <mass></mass>
+    <period>149.61000000</period>
+    <semimajoraxis>0.554000</semimajoraxis>
+    <eccentricity errorplus="0.150000" errorminus="-0.120000">0.190000</eccentricity>
+    <periastron errorplus="69.0000" errorminus="-39.0000">101.0000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-10-27</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
