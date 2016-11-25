@@ -1,0 +1,15 @@
+<star>
+  <name>HATS-11</name>
+  <planet>
+    <name>HATS-11 b</name>
+    <mass>0.85000</mass>
+    <period>3.61916130</period>
+    <semimajoraxis>0.046140</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.340000</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Transit</discoverymethod>
+    <lastupdate>2016-09-29</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
