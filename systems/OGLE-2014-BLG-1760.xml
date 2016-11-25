@@ -1,0 +1,15 @@
+<star>
+  <name>OGLE-2014-BLG-1760</name>
+  <planet>
+    <name>OGLE-2014-BLG-1760 b</name>
+    <mass>0.56000</mass>
+    <period></period>
+    <semimajoraxis>1.750000</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Microlensing</discoverymethod>
+    <lastupdate>2016-11-10</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
