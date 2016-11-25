@@ -1,0 +1,15 @@
+<star>
+  <name>2MASS J22362452+4751425</name>
+  <planet>
+    <name>2MASS J22362452+4751425 b</name>
+    <mass>12.50000</mass>
+    <period></period>
+    <semimajoraxis>230.000000</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Imaging</discoverymethod>
+    <lastupdate>2016-11-10</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
