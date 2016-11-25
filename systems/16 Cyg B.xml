@@ -1,0 +1,30 @@
+<star>
+  <name>16 Cyg B</name>
+  <mass errorplus="0.04" errorminus="0.04">1.01</mass>
+  <radius errorplus="0.13" errorminus="0.13">0.98</radius>
+  <magV>6.2</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="60.0" errorminus="60.0">5766.0</temperature>
+  <metallicity errorplus="0.04" errorminus="0.04">0.08</metallicity>
+  <spectraltype>G2.5 V</spectraltype>
+  <age errorplus="1.8" errorminus="1.8">8.0</age>
+  <planet>
+    <name>16 Cyg B b</name>
+    <mass></mass>
+    <period>798.50000000</period>
+    <semimajoraxis>1.681000</semimajoraxis>
+    <eccentricity errorplus="0.011" errorminus="0.011">0.689</eccentricity>
+    <periastron errorplus="2.1" errorminus="2.1">83.4</periastron>
+    <periastrontime errorplus="1.6" errorminus="1.6">2450539.3</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>14/08/27</lastUpdate>
+    <discovery>1996</discovery>
+    <eccentricity errorplus="0.017000" errorminus="-0.017000">0.681000</eccentricity>
+    <periastron errorplus="2.4000" errorminus="-2.4000">85.8000</periastron>
+    <periastrontime errorplus="6.600000" errorminus="-6.600000">2446549.100000</periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2015-09-10</lastupdate>
+    <discoveryyear>1997</discoveryyear>
+  </planet>
+</star>
