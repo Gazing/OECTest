@@ -1,0 +1,15 @@
+<star>
+  <name>HR 2562</name>
+  <planet>
+    <name>HR 2562 b</name>
+    <mass>30.00000</mass>
+    <period></period>
+    <semimajoraxis>20.300000</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Imaging</discoverymethod>
+    <lastupdate>2016-09-08</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
