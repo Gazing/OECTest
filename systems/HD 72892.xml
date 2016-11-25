@@ -1,0 +1,15 @@
+<star>
+  <name>HD 72892</name>
+  <planet>
+    <name>HD 72892 b</name>
+    <mass></mass>
+    <period>39.47500000</period>
+    <semimajoraxis>0.228000</semimajoraxis>
+    <eccentricity errorplus="0.006000" errorminus="-0.006000">0.423000</eccentricity>
+    <periastron errorplus="0.8000" errorminus="-0.8000">344.3500</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Radial Velocity</discoverymethod>
+    <lastupdate>2016-11-10</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
