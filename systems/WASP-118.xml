@@ -1,0 +1,15 @@
+<star>
+  <name>WASP-118</name>
+  <planet>
+    <name>WASP-118 b</name>
+    <mass>0.51400</mass>
+    <period>4.04604350</period>
+    <semimajoraxis>0.054530</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.000000</eccentricity>
+    <periastron errorplus="" errorminus="">0.0000</periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Transit</discoverymethod>
+    <lastupdate>2016-09-08</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
