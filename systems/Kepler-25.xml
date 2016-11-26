@@ -40,6 +40,7 @@
       <eccentricity errorplus="" errorminus=""></eccentricity>
       <periastron errorplus="" errorminus=""></periastron>
       <periastrontime errorplus="" errorminus=""></periastrontime>
+      <eccentricity errorplus="" errorminus=""></eccentricity>
     </planet>
     <planet>
       <name>Kepler-25 c</name>
@@ -63,6 +64,7 @@
       <eccentricity errorplus="" errorminus=""></eccentricity>
       <periastron errorplus="" errorminus=""></periastron>
       <periastrontime errorplus="" errorminus=""></periastrontime>
+      <eccentricity errorplus="" errorminus=""></eccentricity>
     </planet>
     <planet>
       <name>Kepler-25 d</name>
