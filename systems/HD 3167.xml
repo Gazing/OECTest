@@ -1,0 +1,27 @@
+<star>
+  <name>HD 3167</name>
+  <planet>
+    <name>HD 3167 b</name>
+    <mass></mass>
+    <period>0.95962800</period>
+    <semimajoraxis></semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Transit</discoverymethod>
+    <lastupdate>2016-09-08</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+  <planet>
+    <name>HD 3167 c</name>
+    <mass></mass>
+    <period>29.84540000</period>
+    <semimajoraxis></semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Transit</discoverymethod>
+    <lastupdate>2016-09-08</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
