@@ -1,0 +1,15 @@
+<star>
+  <name>EPIC 211391664</name>
+  <planet>
+    <name>EPIC 211391664 b</name>
+    <mass>0.10131</mass>
+    <period>10.13675000</period>
+    <semimajoraxis>0.094300</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.000000</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <discoverymethod>Transit</discoverymethod>
+    <lastupdate>2016-09-29</lastupdate>
+    <discoveryyear>2016</discoveryyear>
+  </planet>
+</star>
