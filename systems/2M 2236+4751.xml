@@ -1,0 +1,24 @@
+<star>
+  <name>2M 2236+4751</name>
+  <mass errorplus="0.05" errorminus="0.05">0.6</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>12.5</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype>K7</spectraltype>
+  <age errorplus="0.01" errorminus="0.01">0.12</age>
+  <planet>
+    <name>2M 2236+4751 b</name>
+    <mass errorplus="1.5" errorminus="1.5">12.5</mass>
+    <period errorplus="" errorminus=""></period>
+    <semimajoraxis errorplus="20.0" errorminus="20.0">230.0</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/11/03</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
