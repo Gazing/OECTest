@@ -1,0 +1,24 @@
+<star>
+  <name>HAT-P-65</name>
+  <mass errorplus="0.05" errorminus="0.05">1.212</mass>
+  <radius errorplus="0.01" errorminus="0.01">1.86</radius>
+  <magV>13.15</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="51.0" errorminus="51.0">5835.0</temperature>
+  <metallicity errorplus="0.08" errorminus="0.08">0.1</metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="0.6" errorminus="0.6">5.46</age>
+  <planet>
+    <name>HAT-P-65 b</name>
+    <mass errorplus="0.083" errorminus="0.083">0.527</mass>
+    <period errorplus="3.1e-06" errorminus="3.1e-06">2.6054552</period>
+    <semimajoraxis errorplus="0.00054" errorminus="0.00054">0.03951</semimajoraxis>
+    <eccentricity errorplus="0.0" errorminus="0.3">0.3</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/09/12</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
