@@ -1,0 +1,25 @@
+<star>
+  <name>BD+24 4697</name>
+  <mass errorplus="0.05" errorminus="0.05">0.75</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>9.74</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="32.0" errorminus="32.0">5077.0</temperature>
+  <metallicity errorplus="0.02" errorminus="0.02">-0.11</metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>BD+24 4697 b</name>
+    <source>http://exoplanet.eu/catalog/BD+24_4697_b/</source>
+    <mass errorplus="3.0" errorminus="3.0">53.0</mass>
+    <period errorplus="0.016" errorminus="0.016">145.081</period>
+    <semimajoraxis errorplus="0.08" errorminus="0.08">0.5</semimajoraxis>
+    <eccentricity errorplus="0.00043" errorminus="0.00043">0.50048</eccentricity>
+    <periastron errorplus="0.09" errorminus="0.09">66.35</periastron>
+    <periastrontime errorplus="0.037" errorminus="0.037">2455986.042</periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/02/10</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
