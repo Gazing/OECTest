@@ -1,0 +1,24 @@
+<star>
+  <name>Qatar-3</name>
+  <mass errorplus="0.064" errorminus="0.064">1.145</mass>
+  <radius errorplus="0.14" errorminus="0.14">1.272</radius>
+  <magV></magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="52.0" errorminus="52.0">6007.0</temperature>
+  <metallicity errorplus="0.081" errorminus="0.081">-0.041</metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="1.34" errorminus="1.34">4.079</age>
+  <planet>
+    <name>Qatar-3 b</name>
+    <mass errorplus="0.47" errorminus="0.47">4.31</mass>
+    <period errorplus="9.9e-06" errorminus="9.9e-06">2.5079204</period>
+    <semimajoraxis errorplus="0.00069" errorminus="0.00069">0.03783</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/09/18</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
