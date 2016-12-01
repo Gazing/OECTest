@@ -1,0 +1,24 @@
+<star>
+  <name>HAT-P-66</name>
+  <mass errorplus="0.107" errorminus="0.0054">1.255</mass>
+  <radius errorplus="0.151" errorminus="0.095">1.881</radius>
+  <magV>13.0</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="50.0" errorminus="50.0">6002.0</temperature>
+  <metallicity errorplus="0.08" errorminus="0.08">0.035</metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="0.52" errorminus="0.12">4.66</age>
+  <planet>
+    <name>HAT-P-66 b</name>
+    <mass errorplus="0.057" errorminus="0.057">0.783</mass>
+    <period errorplus="5.7e-06" errorminus="5.7e-06">2.972086</period>
+    <semimajoraxis errorplus="0.00121" errorminus="0.00064">0.04363</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.0</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/09/12</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
