@@ -1,0 +1,36 @@
+<star>
+  <name>HIP 68468</name>
+  <mass errorplus="0.01" errorminus="0.01">1.05</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV></magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="8.0" errorminus="8.0">5857.0</temperature>
+  <metallicity errorplus="0.007" errorminus="0.007">0.065</metallicity>
+  <spectraltype>G3V</spectraltype>
+  <age errorplus="0.4" errorminus="0.4">5.9</age>
+  <planet>
+    <name>HIP 68468 b</name>
+    <mass errorplus="" errorminus="">0.011</mass>
+    <period errorplus="" errorminus="">1.8372</period>
+    <semimajoraxis errorplus="" errorminus="">0.029743</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.41</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/11/02</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+  <planet>
+    <name>HIP 68468 c</name>
+    <mass errorplus="" errorminus="">0.094</mass>
+    <period errorplus="" errorminus="">194.0</period>
+    <semimajoraxis errorplus="" errorminus="">0.665</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.04</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>RV</detectionMethod>
+    <lastUpdate>16/11/02</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
