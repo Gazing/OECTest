@@ -1,0 +1,24 @@
+<star>
+  <name>OGLE-2007-BLG-349(AB)</name>
+  <mass errorplus="0.12" errorminus="0.12">0.71</mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV></magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>OGLE-2007-BLG-349(AB) b</name>
+    <mass errorplus="0.041" errorminus="0.041">0.25</mass>
+    <period errorplus="" errorminus=""></period>
+    <semimajoraxis errorplus="0.43" errorminus="0.34">2.59</semimajoraxis>
+    <eccentricity errorplus="" errorminus=""></eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/09/22</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
