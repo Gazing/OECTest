@@ -1,0 +1,24 @@
+<star>
+  <name>V2051 Oph</name>
+  <mass errorplus="" errorminus=""></mass>
+  <radius errorplus="" errorminus=""></radius>
+  <magV>13.0</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="" errorminus=""></temperature>
+  <metallicity errorplus="" errorminus=""></metallicity>
+  <spectraltype></spectraltype>
+  <age errorplus="" errorminus=""></age>
+  <planet>
+    <name>V2051 Oph b</name>
+    <mass errorplus="0.7" errorminus="0.7">7.3</mass>
+    <period errorplus="" errorminus=""></period>
+    <semimajoraxis errorplus="" errorminus="">9.0</semimajoraxis>
+    <eccentricity errorplus="" errorminus="">0.37</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/09/07</lastUpdate>
+    <discovery>2015</discovery>
+  </planet>
+</star>
