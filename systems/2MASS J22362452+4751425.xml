@@ -1,0 +1,21 @@
+<star>
+  <name>2MASS J22362452+4751425</name>
+  <mass errorplus="0.05" errorminus="-0.05">0.60</mass>
+  <temperature errorplus="35.00" errorminus="-35.00">4045.00</temperature>
+  <age errorplus="0.010" errorminus="-0.010">0.120</age>
+  <spectraltype>K7 V</spectraltype>
+  <magB>13.730</magB>
+  <magV>12.510</magV>
+  <magJ>9.975</magJ>
+  <magH>9.338</magH>
+  <magK>9.148</magK>
+  <planet>
+    <name>2MASS J22362452+4751425 b</name>
+    <semimajoraxis errorplus="20.000000" errorminus="-20.000000">230.000000</semimajoraxis>
+    <longitiude>6.858823</longitiude>
+    <mass errorplus="1.50000" errorminus="-1.50000">12.50000</mass>
+    <discoveryyear>2016</discoveryyear>
+    <lastupdate>2016-11-10</lastupdate>
+    <detectionmethod>imaging</detectionmethod>
+  </planet>
+</star>
