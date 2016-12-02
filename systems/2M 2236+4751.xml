@@ -1,0 +1,15 @@
+<star>
+  <name>2M 2236+4751</name>
+  <mass errorplus="0.05" errorminus="0.05">0.6</mass>
+  <magV>12.5</magV>
+  <spectraltype>K7</spectraltype>
+  <age errorplus="0.01" errorminus="0.01">0.12</age>
+  <planet>
+    <name>2M 2236+4751 b</name>
+    <mass errorplus="1.5" errorminus="1.5">12.5</mass>
+    <semimajoraxis errorplus="20.0" errorminus="20.0">230.0</semimajoraxis>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/11/03</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
