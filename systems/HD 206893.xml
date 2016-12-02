@@ -1,0 +1,16 @@
+<star>
+  <name>HD 206893</name>
+  <mass>1.24</mass>
+  <magV>6.67</magV>
+  <temperature>6486.0</temperature>
+  <spectraltype>F5V</spectraltype>
+  <age errorplus="1.0" errorminus="1.0">1.1</age>
+  <planet>
+    <name>HD 206893 b</name>
+    <mass errorplus="25.0" errorminus="25.0">49.0</mass>
+    <semimajoraxis>10.0</semimajoraxis>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/12/02</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
