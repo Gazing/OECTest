@@ -1,0 +1,24 @@
+<star>
+  <name>EPIC 212803289</name>
+  <mass errorplus="0.14" errorminus="0.1">1.6</mass>
+  <radius errorplus="0.1" errorminus="0.1">3.1</radius>
+  <magV>11.149</magV>
+  <magH></magH>
+  <magJ></magJ>
+  <temperature errorplus="40.0" errorminus="40.0">5990.0</temperature>
+  <metallicity errorplus="0.05" errorminus="0.05">0.2</metallicity>
+  <spectraltype>G0 IV</spectraltype>
+  <age errorplus="0.2" errorminus="0.6">2.4</age>
+  <planet>
+    <name>K2-99 b</name>
+    <mass errorplus="0.09" errorminus="0.09">0.97</mass>
+    <period errorplus="0.001" errorminus="0.001">18.249</period>
+    <semimajoraxis errorplus="0.006" errorminus="0.006">0.159</semimajoraxis>
+    <eccentricity errorplus="0.04" errorminus="0.04">0.19</eccentricity>
+    <periastron errorplus="" errorminus=""></periastron>
+    <periastrontime errorplus="" errorminus=""></periastrontime>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/11/09</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
