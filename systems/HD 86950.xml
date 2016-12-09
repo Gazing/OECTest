@@ -1,0 +1,26 @@
+<star>
+  <name>HD 86950</name>
+  <mass errorplus="0.25" errorminus="-0.25">1.66</mass>
+  <radius errorplus="0.60" errorminus="-0.60">8.80</radius>
+  <temperature errorplus="100.00" errorminus="-100.00">4805.00</temperature>
+  <metallicity errorplus="0.100" errorminus="-0.100">0.040</metallicity>
+  <spectraltype>K1 III</spectraltype>
+  <magB>8.549</magB>
+  <magV>7.459</magV>
+  <magJ>5.692</magJ>
+  <magH>5.194</magH>
+  <magK>5.038</magK>
+  <planet>
+    <name>HD 86950 b</name>
+    <semimajoraxis errorplus="0.080000" errorminus="-0.080000">2.720000</semimajoraxis>
+    <eccentricity errorplus="0.160000" errorminus="-0.160000">0.170000</eccentricity>
+    <periastron errorplus="70.0000" errorminus="-70.0000">243.0000</periastron>
+    <longitiude>159.278816</longitiude>
+    <period errorplus="57.00000000" errorminus="-57.00000000">1270.00000000</period>
+    <periastrontime errorplus="161.000000" errorminus="-161.000000">2454245.000000</periastrontime>
+    <mass errorplus="0.70000" errorminus="-0.70000" type="msini">3.60000</mass>
+    <discoveryyear>2016</discoveryyear>
+    <lastupdate>2016-12-01</lastupdate>
+    <detectionmethod>RV</detectionmethod>
+  </planet>
+</star>
