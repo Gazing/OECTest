@@ -1,0 +1,26 @@
+<star>
+  <name>XO-6</name>
+  <mass errorplus="0.06" errorminus="0.06">1.47</mass>
+  <radius errorplus="0.18" errorminus="0.18">1.93</radius>
+  <temperature errorplus="100.0" errorminus="100.0">6720.0</temperature>
+  <age errorplus="0.2" errorminus="0.9">1.88</age>
+  <metallicity>-0.07</metallicity>
+  <spectraltype>F5</spectraltype>
+  <magV>10.25</magV>
+  <planet>
+    <name>XO-6 b</name>
+    <semimajoraxis errorplus="0.0077" errorminus="0.0077">0.0815</semimajoraxis>
+    <eccentricity>0.0</eccentricity>
+    <longitiude>8.1e-06</longitiude>
+    <inclination errorplus="0.2" errorminus="0.2">86.0</inclination>
+    <impactparamater errorplus="0.034" errorminus="0.034">0.633</impactparamater>
+    <period errorplus="8.1e-06" errorminus="8.1e-06">3.7650007</period>
+    <mass errorplus="0.5" errorminus="0.5">1.9</mass>
+    <radius errorplus="0.22" errorminus="0.22">2.07</radius>
+    <temperature>2456652.71245</temperature>
+    <spinorbitalalignment errorplus="2.3" errorminus="2.3">339.3</spinorbitalalignment>
+    <detectionMethod>primary transit</detectionMethod>
+    <lastupdate>16/12/09</lastupdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
