@@ -1,0 +1,30 @@
+<star>
+  <name>WASP-132</name>
+  <mass errorplus="0.04" errorminus="-0.04">0.80</mass>
+  <radius errorplus="0.02" errorminus="-0.02">0.74</radius>
+  <temperature errorplus="100.00" errorminus="-100.00">4775.00</temperature>
+  <age>0.500</age>
+  <metallicity errorplus="0.130" errorminus="-0.130">0.220</metallicity>
+  <spectraltype>K4</spectraltype>
+  <magV>12.400</magV>
+  <magJ>10.257</magJ>
+  <magH>9.745</magH>
+  <magK>9.674</magK>
+  <planet>
+    <name>WASP-132 b</name>
+    <semimajoraxis errorplus="0.001000" errorminus="-0.001000">0.067000</semimajoraxis>
+    <eccentricity>0.000000</eccentricity>
+    <longitiude>230.880649</longitiude>
+    <inclination errorplus="0.300" errorminus="-0.300">89.600</inclination>
+    <impactparamater errorplus="0.1200" errorminus="-0.1200">0.1400</impactparamater>
+    <period errorplus="0.00000900" errorminus="-0.00000900">7.13352100</period>
+    <mass errorplus="0.03000" errorminus="-0.03000">0.41000</mass>
+    <radius errorplus="0.030" errorminus="-0.030">0.870</radius>
+    <temperature errorplus="16" errorminus="-16">763</temperature>
+    <istransitting>1</istransitting>
+    <transittime errorplus="0.0009000" errorminus="-0.0009000">0.1284000</transittime>
+    <discoveryyear>2016</discoveryyear>
+    <lastupdate>2016-12-01</lastupdate>
+    <detectionmethod>transit</detectionmethod>
+  </planet>
+</star>
