@@ -1,0 +1,26 @@
+<star>
+  <name>HD 72892</name>
+  <mass errorplus="0.05" errorminus="-0.05">1.02</mass>
+  <radius errorplus="0.06" errorminus="-0.06">1.22</radius>
+  <temperature errorplus="100.00" errorminus="-100.00">5688.00</temperature>
+  <age errorplus="3.000" errorminus="-3.000">8.000</age>
+  <metallicity errorplus="0.100" errorminus="-0.100">0.250</metallicity>
+  <spectraltype>G5 V</spectraltype>
+  <magB>9.505</magB>
+  <magV>8.830</magV>
+  <magJ>7.606</magJ>
+  <magH>7.323</magH>
+  <magK>7.216</magK>
+  <planet>
+    <name>HD 72892 b</name>
+    <semimajoraxis errorplus="0.008000" errorminus="-0.008000">0.228000</semimajoraxis>
+    <eccentricity errorplus="0.006000" errorminus="-0.006000">0.423000</eccentricity>
+    <periastron errorplus="0.8000" errorminus="-0.8000">344.3500</periastron>
+    <longitiude>135.564976</longitiude>
+    <period errorplus="0.00400000" errorminus="-0.00400000">39.47500000</period>
+    <mass errorplus="0.37000" errorminus="-0.37000" type="msini">5.45000</mass>
+    <discoveryyear>2016</discoveryyear>
+    <lastupdate>2016-11-10</lastupdate>
+    <detectionmethod>RV</detectionmethod>
+  </planet>
+</star>
