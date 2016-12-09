@@ -1,0 +1,30 @@
+<star>
+  <name>WASP-127</name>
+  <mass errorplus="0.03" errorminus="-0.03">1.08</mass>
+  <radius errorplus="0.03" errorminus="-0.03">1.39</radius>
+  <temperature errorplus="85.00" errorminus="-85.00">5620.00</temperature>
+  <age errorplus="1.800" errorminus="-1.800">11.410</age>
+  <metallicity errorplus="0.060" errorminus="-0.060">-0.180</metallicity>
+  <magB>10.790</magB>
+  <magV>10.150</magV>
+  <magR>9.740</magR>
+  <magJ>9.092</magJ>
+  <magH>8.738</magH>
+  <magK>8.641</magK>
+  <planet>
+    <name>WASP-127 b</name>
+    <semimajoraxis errorplus="0.000500" errorminus="-0.000500">0.052000</semimajoraxis>
+    <longitiude>163.534250</longitiude>
+    <inclination errorplus="0.800" errorminus="-0.600">88.700</inclination>
+    <impactparamater errorplus="0.0900" errorminus="-0.1100">0.1500</impactparamater>
+    <period errorplus="0.00000200" errorminus="-0.00000200">4.17806200</period>
+    <mass errorplus="0.02000" errorminus="-0.02000">0.18000</mass>
+    <radius errorplus="0.040" errorminus="-0.040">1.370</radius>
+    <temperature errorplus="24" errorminus="-24">1400</temperature>
+    <istransitting>1</istransitting>
+    <transittime errorplus="0.0007000" errorminus="-0.0007000">0.1795000</transittime>
+    <discoveryyear>2016</discoveryyear>
+    <lastupdate>2016-12-01</lastupdate>
+    <detectionmethod>transit</detectionmethod>
+  </planet>
+</star>
