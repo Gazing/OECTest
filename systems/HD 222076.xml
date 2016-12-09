@@ -1,0 +1,26 @@
+<star>
+  <name>HD 222076</name>
+  <mass errorplus="0.25" errorminus="-0.25">1.07</mass>
+  <radius errorplus="0.60" errorminus="-0.60">4.10</radius>
+  <temperature errorplus="100.00" errorminus="-100.00">4806.00</temperature>
+  <metallicity errorplus="0.100" errorminus="-0.100">0.050</metallicity>
+  <spectraltype>K0 III</spectraltype>
+  <magB>8.523</magB>
+  <magV>7.459</magV>
+  <magJ>5.752</magJ>
+  <magH>5.297</magH>
+  <magK>5.127</magK>
+  <planet>
+    <name>HD 222076 b</name>
+    <semimajoraxis errorplus="0.030000" errorminus="-0.030000">1.830000</semimajoraxis>
+    <eccentricity errorplus="0.050000" errorminus="-0.050000">0.080000</eccentricity>
+    <periastron errorplus="60.0000" errorminus="-60.0000">241.0000</periastron>
+    <longitiude>308.839655</longitiude>
+    <period errorplus="19.00000000" errorminus="-19.00000000">871.00000000</period>
+    <periastrontime errorplus="189.000000" errorminus="-189.000000">2454264.000000</periastrontime>
+    <mass errorplus="0.11000" errorminus="-0.11000" type="msini">1.56000</mass>
+    <discoveryyear>2016</discoveryyear>
+    <lastupdate>2016-12-01</lastupdate>
+    <detectionmethod>RV</detectionmethod>
+  </planet>
+</star>
