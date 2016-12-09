@@ -1,0 +1,26 @@
+<star>
+  <name>EPIC 220674823</name>
+  <mass errorplus="0.01" errorminus="0.01">0.93</mass>
+  <radius errorplus="0.04" errorminus="0.04">0.83</radius>
+  <magV>12.0</magV>
+  <temperature errorplus="18.0" errorminus="18.0">5814.0</temperature>
+  <metallicity errorplus="0.25" errorminus="0.25">-0.28</metallicity>
+  <planet>
+    <name>EPIC 220674823 b</name>
+    <period errorplus="3e-05" errorminus="3e-05">0.571308</period>
+    <semimajoraxis>0.011</semimajoraxis>
+    <eccentricity>0.0</eccentricity>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/11/03</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+  <planet>
+    <name>EPIC 220674823 c</name>
+    <period errorplus="0.0001" errorminus="0.0001">13.341245</period>
+    <semimajoraxis>0.064</semimajoraxis>
+    <eccentricity>0.0</eccentricity>
+    <detectionMethod>IDK</detectionMethod>
+    <lastUpdate>16/11/03</lastUpdate>
+    <discovery>2016</discovery>
+  </planet>
+</star>
