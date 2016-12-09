@@ -1,0 +1,30 @@
+<star>
+  <name>HATS-32</name>
+  <mass errorplus="0.04" errorminus="-0.04">1.10</mass>
+  <radius errorplus="0.10" errorminus="-0.06">1.10</radius>
+  <temperature errorplus="110.00" errorminus="-110.00">5700.00</temperature>
+  <age errorplus="1.800" errorminus="-1.800">3.500</age>
+  <metallicity errorplus="0.050" errorminus="-0.050">0.390</metallicity>
+  <magB>15.106</magB>
+  <magV>14.384</magV>
+  <magJ>13.090</magJ>
+  <magH>12.768</magH>
+  <magK>12.699</magK>
+  <planet>
+    <name>HATS-32 b</name>
+    <semimajoraxis errorplus="0.000530" errorminus="-0.000530">0.040240</semimajoraxis>
+    <eccentricity>0.471000</eccentricity>
+    <longitiude>338.842124</longitiude>
+    <inclination errorplus="1.200" errorminus="-1.200">87.100</inclination>
+    <impactparamater errorplus="0.1300" errorminus="-0.1600">0.4000</impactparamater>
+    <period errorplus="0.00000550" errorminus="-0.00000550">2.81265480</period>
+    <mass errorplus="0.10000" errorminus="-0.10000">0.92000</mass>
+    <radius errorplus="0.144" errorminus="-0.096">1.249</radius>
+    <temperature errorplus="58" errorminus="-58">1437</temperature>
+    <istransitting>1</istransitting>
+    <transittime errorplus="0.0036000" errorminus="-0.0036000">0.1189000</transittime>
+    <discoveryyear>2016</discoveryyear>
+    <lastupdate>2016-12-01</lastupdate>
+    <detectionmethod>transit</detectionmethod>
+  </planet>
+</star>
