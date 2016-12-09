@@ -1,0 +1,29 @@
+<star>
+  <name>K2-31</name>
+  <mass errorplus="0.06" errorminus="-0.06">0.91</mass>
+  <radius errorplus="0.07" errorminus="-0.07">0.78</radius>
+  <temperature errorplus="70.00" errorminus="-70.00">5280.00</temperature>
+  <metallicity errorplus="0.050" errorminus="-0.050">0.080</metallicity>
+  <spectraltype>G7 V</spectraltype>
+  <magB>11.634</magB>
+  <magV>10.775</magV>
+  <magJ>9.318</magJ>
+  <magH>8.942</magH>
+  <magK>8.866</magK>
+  <planet>
+    <name>K2-31 b</name>
+    <semimajoraxis errorplus="0.001800" errorminus="-0.001800">0.022000</semimajoraxis>
+    <eccentricity>0.000000</eccentricity>
+    <longitiude>247.588570</longitiude>
+    <inclination errorplus="0.800" errorminus="-0.800">79.900</inclination>
+    <impactparamater errorplus="0.0750" errorminus="-0.0750">0.9750</impactparamater>
+    <period errorplus="0.00000200" errorminus="-0.00000200">1.25785000</period>
+    <mass errorplus="0.07900" errorminus="-0.07900">1.77400</mass>
+    <radius errorplus="0.350" errorminus="-0.350">1.060</radius>
+    <istransitting>1</istransitting>
+    <transittime errorplus="0.0002000" errorminus="-0.0002000">0.0409000</transittime>
+    <discoveryyear>2016</discoveryyear>
+    <lastupdate>2016-12-01</lastupdate>
+    <detectionmethod>transit</detectionmethod>
+  </planet>
+</star>
