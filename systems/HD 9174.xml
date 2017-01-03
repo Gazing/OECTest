@@ -1,0 +1,26 @@
+<star>
+  <name>HD 9174</name>
+  <mass errorplus="0.05" errorminus="-0.05">1.03</mass>
+  <radius errorplus="0.07" errorminus="-0.07">1.67</radius>
+  <temperature errorplus="100.00" errorminus="-100.00">5577.00</temperature>
+  <age errorplus="3.000" errorminus="-3.000">9.000</age>
+  <metallicity errorplus="0.100" errorminus="-0.100">0.390</metallicity>
+  <spectraltype>G8 IV</spectraltype>
+  <magB>9.145</magB>
+  <magV>8.400</magV>
+  <magJ>7.134</magJ>
+  <magH>6.830</magH>
+  <magK>6.744</magK>
+  <planet>
+    <name>HD 9174 b</name>
+    <semimajoraxis errorplus="0.090000" errorminus="-0.090000">2.200000</semimajoraxis>
+    <eccentricity errorplus="0.050000" errorminus="-0.050000">0.120000</eccentricity>
+    <periastron errorplus="37.8200" errorminus="-37.8200">101.9900</periastron>
+    <longitiude>12.776157</longitiude>
+    <period errorplus="34.00000000" errorminus="-34.00000000">1179.00000000</period>
+    <mass errorplus="0.14000" errorminus="-0.14000" type="msini">1.11000</mass>
+    <discoveryyear>2016</discoveryyear>
+    <lastupdate>2016-11-10</lastupdate>
+    <detectionmethod>RV</detectionmethod>
+  </planet>
+</star>
